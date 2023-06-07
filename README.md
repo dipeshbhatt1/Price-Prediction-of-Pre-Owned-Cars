@@ -3,4 +3,4 @@
 
 ![Image](https://drive.google.com/file/d/1nb-aq7Kw2WVqOcL0yk1hISNfSwwBhMqR/view?usp=sharing)
 
-<img src="[./images/car.jp](https://drive.google.com/file/d/1nb-aq7Kw2WVqOcL0yk1hISNfSwwBhMqR/view?usp=sharing)" alt="Image" width="300" height="200">
+<img src="https://drive.google.com/file/d/1nb-aq7Kw2WVqOcL0yk1hISNfSwwBhMqR/view?usp=sharing" alt="Image" width="300" height="200">
