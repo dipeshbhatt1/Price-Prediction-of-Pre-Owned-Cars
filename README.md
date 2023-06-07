@@ -14,12 +14,13 @@ The model shows accuracy of more than 80% and is able to reliably provide a mean
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Excel Dashboard ana Analysis** | This file contains the excel worksheets and dashboard of the insights. |
+| **Spinny.com scraping .ipynb**  | This folder contains .ipynb code of web scraping part |
+| **Raw Data Files**  | This folder provides the raw data generated through web scraping, in .csv format |
+| **Final CSV File**  | This folder provides the final csv file after data cleaning, ready for model building and drawing insights |
+| **PowerBI Dashboard and Analysis** | This file contains the PowerBI Desktop file and dashboard of the insights |
 | **World Electricity IPYNB** | This file contains the ipynb code of the data cleaning part. |
 | **Project SQL Queries**  | This file provides SQL queries of the aggregation of the data   |
 | **Project PPT Files**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **Raw Data Files**  | This folder provides the raw data for the analysis .  |
-| **Final CSV Files**  | This folder provides the final csv files after the data cleaning.  |
 <br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/108053296/189920716-560b819b-12ad-4f6e-95b4-f86cbb10e566.gif" width="400" ></p>
