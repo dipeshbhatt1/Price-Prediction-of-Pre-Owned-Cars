@@ -3,4 +3,6 @@
 
 <img src="https://github.com/dipeshbhatt1/images/issues/1#issue-1746380348" alt="Image" width="250" height="175">
 
+![image](https://github.com/dipeshbhatt1/images/issues/1#issue-1746380348)
+
 **in India.**
