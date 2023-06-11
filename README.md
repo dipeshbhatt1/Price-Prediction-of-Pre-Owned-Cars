@@ -1,7 +1,7 @@
 
 # Price-Prediction of pre-owned Cars
 
-<img src="car.jpg" width="250" height="175">
+<img src="nexon.jpg" width="600" height="400">
 
 ## 📝 Description
 * The project involves usage of labeled dataset, extracted from spinny.com using web scraping, to build a Linear Regression model that predicts the prices of used cars.
