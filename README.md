@@ -1,5 +1,5 @@
 
-# Predicting Prices of Pre-Owned Cars
+# Price-Prediction of pre-owned Cars
 
 <img src="car.jpg" width="42" height="42">
 ## Description
