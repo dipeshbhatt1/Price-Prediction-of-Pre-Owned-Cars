@@ -27,13 +27,9 @@
     
 ## :gear: Setup
 1. Install latest version of python:
-```bash
     https://www.python.org/downloads/
-```
 2. If pip is not installed, you can follow the instructions:
-```bash
     https://pip.pypa.io/en/stable/installing/
-```
 3. Install jupyter using command prompt:
 ```bash
     pip install jupyter
