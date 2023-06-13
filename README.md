@@ -7,7 +7,7 @@
 * The project involves usage of labeled dataset, extracted from spinny.com using web scraping, to build a Linear Regression model that predicts the prices of used cars.
 * The idea behind this was to build a smart model that could help buyers to know a reasonable price of used cars based on his desired features, and a seller to get a reliable idea of the current value of their used car.
 
-## ⏳ Dataset
+## ⏳ Dataset 
 * Data of over 2000 pre-owned cars was extracted from spinny.com
 * After applying feature engineering and data preparation we are left with data of over 1k pre-owned cars
 * Download the dataset for custom training: LINK
