@@ -10,8 +10,8 @@
 * With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on their features.
 
 ## ⏳ Dataset 
-* Data of over 2000 pre-owned cars was extracted from spinny.com
-* After applying feature engineering and data preparation we are left with data of over 1k pre-owned cars
+* Data of over 6000 pre-owned cars was extracted from spinny.com
+* After applying feature engineering and data preparation we are left with data of over 1000 pre-owned cars
 * Download the dataset for custom training: LINK
 
 
