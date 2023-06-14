@@ -1,9 +1,10 @@
 
 # <img src="Media Files/icon.png" width="50" height="30"> Price-Prediction of pre-owned Cars <img src="Media Files/icon2.png" width="50" height="32">
 
-<img src="Media Files/1.jpg" width="400" height="250"> <img src="Media Files/2.jpg" width="400" height="250">
-<img src="Media Files/3.jpg" width="500" height="300"> <img src="Media Files/4.jpg" width="500" height="300">
-<img src="Media Files/5.jpg" width="500" height="300"> <img src="Media Files/TATA NEXON GIF.gif" width="500" height="300">
+<img src="Media Files/1.jpg" width="400" height="235"> <img src="Media Files/2.jpg" width="400" height="235">
+<p align="center"><img src="Media Files/3.jpg" width="500" height="400">
+<img src="Media Files/4.jpg" width="400" height="235"> <img src="Media Files/5.jpg" width="400" height="235">
+<p align="center"><img src="Media Files/TATA NEXON GIF.gif" width="500" height="400">
 
 ## 📝 Description
 * This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
