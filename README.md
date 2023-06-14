@@ -13,6 +13,22 @@
 * Data of over 6000 pre-owned cars was extracted from spinny.com
 * After applying feature engineering and data preparation we are left with data of over 1000 pre-owned cars
 * Download the dataset for custom training: LINK
+----------------------
+## 🏽‍ Download Object Detection Model
+- Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link
+- https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing
+- Download the weight file and Place it into **" detector/yolo/data/ "** folder.
+
+##  🏽‍ For Pose Tracking, Download the object tracking model
+- For pose tracking, download the object tracking model manually: **" JDE-1088x608-uncertainty "** from following Drive Link 
+- https://drive.google.com/file/d/1oeK1aj9t7pTi1u70nSIwx0qNVWvEvRrf/view?usp=sharing
+- Download the file and Place it into **" detector/tracker/data/ ".** folder.
+
+## 🏽‍ Download Fast.res50.pt file
+- Download the **" fast.res50.pth "** file from following Drive Link 
+- https://drive.google.com/file/d/1WrvycZnVWwltSa6cjeTznEFOyNAwHEZu/view?usp=sharing
+- Download the file and Place it into **" pretrained_models/ ".** folder.
+-----------------------
 
 
 ## :desktop_computer:	Installation
@@ -45,10 +61,18 @@
     jupyter notebook
 ```
 6. Now you can start working on the project using the given dataset and python codes
+
+_______________________________
+## 🎯 Inference demo
+1. Testing with **Images** ( Put test images in **AlphaPose/examples/demo/** )  :-
+```bash
+$ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_1x.yaml --checkpoint pretrained_models/fast_res50_256x192.pth --indir examples/demo/ --save_img
+_______________________________
+
 ## Steps Involved (End to End)
 
 1. **Objective:** To build a Machine Learning model (Linear Regression) that can predict prices (label) of used cars based on various features
-2. **Availability of Dataset:** For this, a reasonable and large enough dataset was required. Now, instead of looking for some old data or sample data available on internet, I decided to scrape website of a service provider already working in this field. So, I came across spinny.com which has a simple yet cool UI. Finally, the data was scrapped from this website.
+2. **Data Collection:** For this, a reasonable and large enough dataset was required. Now, instead of looking for some old data or sample data available on internet, I decided to scrape website of a service provider already working in this field. So, I came across spinny.com which has a simple yet cool UI. Finally, the data was scrapped from this website.
 3. **Feature Engineering:** Initially the dataset had all the data in just 7 columns, the data had null values, duplicates and noise too. After applying techniques like Data Cleaning (imputation, outlier detection, and removing duplicate records), EDA, and Feature Generation, total 14 meaningful features were generated, which can be used for drawing insites through aggregations and visualistion. Then, I applied some final techniques, to prepare final data for training the model, like Feature Selection, Feature Encoding, Feature Scaling. The final dataset has the following features:
 ```bash
     model (year)
