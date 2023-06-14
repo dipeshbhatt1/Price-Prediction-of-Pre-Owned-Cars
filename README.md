@@ -13,7 +13,8 @@
 ## ⏳ Dataset 
 * Data of over 6000 pre-owned cars was extracted from spinny.com
 * After applying feature engineering and data preparation we are left with data of over 1000 pre-owned cars
-* Download the dataset for custom training: LINK
+* Download the dataset for custom training:
+ https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Media%20Files/5.jpg
 ----------------------
 ## 🏽‍ Download Object Detection Model
 - Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link
@@ -94,7 +95,69 @@ ______________________
 4. **Training:** The final dataset was then split into training and testing datasets and trained through Linear Regression.
 5. **Testing:** The predicted values for the label (price) were then generated. The accuracy came out to be 85% using R2 score metric and 84% using Adjusted R2 score method.
 6. **Predicting (Applying the Model):** As a test case, predicting the price of a used car using hypothetical features seems to be quite reasonable and meaningful. The model now can be used by a user who may be buyer/seller to predict prices of pre-owned cars.
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ## Screenshots
 
+ 
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/106439762/181937614-9d035731-d691-4307-bac7-434873673931.png" width="600" height="470"></p> -->
+
+   
+
+
+<img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+
+<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png"</a></p> 
+<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189941021-7fdd796a-c11c-4776-b484-5a736b8cee5b.png"</a></p>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189941179-8839d403-1523-440e-b305-836964f7a273.png"</a></p>
+
+
+   
+   
+
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
+   
+   1. North America And Europe have the highest average electrification in both rural and urban areas as they are among highly developed regions in the world. 
+Regions belonging to lower and lower middle income have comparatively lower electrification along with considerable difference of distribution between rural and urban areas.
+   
+   2. There is gradual increase in number of developing countries accomplishing minimum 75% electrification over the last two decades.
+   
+   3. Developed regions have increased their electricity production through nuclear sources whereas some developing regions have gradually started increasing their foothold in nuclear power generation while some regions have been unable to do so.
+   
+   4. Transmission loss has been highest among the countries having poor economy, political instability , infrastructure issues and outdated technologies.
+   
+   5. Countries having emphasis on tourism , geographical & demographic constraint have seen highest growth rate of electrification in the last two decades.
+   
+   6. Higher income region have been in forefront of increasing renewable energy production along with nuclear sources whereas middle and lower middle countries are in gradual process.
+    
+
+![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
+
+   
+ 
+
+<!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
+I'm an aspiring data analyst...
+
+
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
+
+<a href="https://www.linkedin.com/in/tejas-natani-6b202a196/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> <a href="https://samarsaeedkhan.me/"><img src="https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png" width="48" height="48"><a href="https://www.hackerrank.com/samarsaeedkhan4" > <img src="https://user-images.githubusercontent.com/106439762/182037415-9440716d-d2bc-4c33-955a-66b9c18f77eb.png" width="48" height="48"> <a href="https://www.kaggle.com/samarsaeedkhan" ><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="48" height="48"></a>   
+
+
+
+
+  ## 🛠 Skills
+
+    •	Python
+    • Web scraping (using Selenium)
+    • Machine Learning
+    •	Analytical Visualisation -->
+
+## Contributing
+Contributions are always welcome!
+ 
+## Lessons Learned
+What did you learn while building this project? What challenges did you face and how did you overcome them?
