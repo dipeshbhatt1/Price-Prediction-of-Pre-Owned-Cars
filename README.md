@@ -7,7 +7,6 @@
 
 ## 📝 Description
 * This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
-* The project involves usage of labeled dataset, extracted from spinny.com using web scraping, to build a Linear Regression model that predicts the prices of used cars.
 * With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on their features.
 
 ## ⏳ Dataset 
