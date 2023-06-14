@@ -6,8 +6,9 @@
 <img src="Media Files/5.jpg" width="500" height="300"> <img src="Media Files/TATA NEXON GIF.gif" width="500" height="300">
 
 ## 📝 Description
+* This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
 * The project involves usage of labeled dataset, extracted from spinny.com using web scraping, to build a Linear Regression model that predicts the prices of used cars.
-* The idea behind this was to build a smart model that could help buyers to know a reasonable price of used cars based on his desired features, and a seller to get a reliable idea of the current value of their used car.
+* With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on their features.
 
 ## ⏳ Dataset 
 * Data of over 2000 pre-owned cars was extracted from spinny.com
