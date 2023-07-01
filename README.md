@@ -52,8 +52,7 @@
 ```
 6. Now you can start working on the project using the given dataset and python codes
 
-
-## Steps Involved (End to End)
+## <img src="Media Files/steps3.png" width="45" height="40"> Steps Involved
 
 1. **Objective:** To build a Machine Learning model (Linear Regression) that can predict prices (label) of used cars based on various features
 2. **Data Collection:** For this, a reasonable and large enough dataset was required. Now, instead of looking for some old data or sample data available on internet, I decided to scrape website of a service provider already working in this field. So, I came across spinny.com which has a simple yet cool UI. Finally, the data was scrapped from this website.
