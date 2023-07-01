@@ -1,0 +1,1395 @@
+manufacturer,brand,model (year),km driven (in thousands),mileage (in kmpl),seating capacity (units),fuel_type,transmission,ground clearance (in mm),boot space (in litres),fuel tank capacity (in litres),max power (in bhp),price (in ₹)
+Hyundai,Hyundai Elite i20 Asta 1.2 (O),2018,34,19.8,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.65
+Hyundai,Hyundai Creta SX IVT Petrol,2021,19,19.365,5.0,Petrol,Automatic,190.0,433.0,50.0,88.51,15.24
+Hyundai,Hyundai Creta 1.6 SX,2019,51,19.365,5.0,Diesel,Manual,170.0,400.0,55.0,126.0,11.88
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2015,44,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.06
+Renault,Renault Kwid 1.0 RXL,2021,12,21.7,5.0,Petrol,Manual,184.0,279.0,28.0,67.0,3.75
+Hyundai,Hyundai Elite i20 Asta (O) CVT,2019,17,19.8,5.0,Petrol,Automatic,170.0,285.0,40.0,82.0,7.93
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,56,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.78
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol+CNG (Outside Fitted),2019,10,21.01,5.0,Petrol+cng,Manual,170.0,339.0,37.0,81.8,7.45
+Maruti Suzuki,Maruti Suzuki XL6 Alpha AT Petrol,2020,50,17.99,6.0,Petrol,Automatic,170.0,209.0,45.0,103.2,10.98
+Toyota,Toyota Etios V,2011,50,17.57,5.0,Petrol,Manual,170.0,595.0,45.0,80.0,2.72
+Toyota,Toyota Etios Liva G,2012,45,17.71,5.0,Petrol,Manual,170.0,251.0,45.0,80.0,2.86
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI+ AT,2017,96,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,6.76
+Hyundai,Hyundai i20 Magna 1.2,2011,65,12.4,5.0,Petrol,Manual,165.0,295.0,45.0,80.0,2.93
+Hyundai,Hyundai Grand i10 Magna 1.2 Kappa VTVT,2014,60,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,3.69
+Hyundai,Hyundai i10 Magna 1.2 Petrol,2013,87,20.36,5.0,Petrol,Manual,165.0,350.0,35.0,78.9,2.6
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2019,39,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,7.27
+Hyundai,Hyundai Verna SX Opt Turbo Petrol,2020,7,19.2,5.0,Petrol,Automatic,170.0,480.0,45.0,118.0,13.26
+Kia,Kia Sonet GTX Plus 1.0 iMT,2020,18,18.2,5.0,Petrol,Manual,170.0,392.0,45.0,88.51,11.45
+Maruti Suzuki,Maruti Suzuki Swift VXI AMT,2020,25,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,6.48
+Maruti Suzuki,Maruti Suzuki Ritz LXI,2014,18,18.5,5.0,Petrol,Manual,170.0,236.0,43.0,85.0,3.41
+Maruti Suzuki,Maruti Suzuki Swift LXI (O),2017,46,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,4.34
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus AMT,2019,63,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,6.72
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI+ AT,2016,98,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,6.18
+Maruti Suzuki,Maruti Suzuki Dzire ZXI AMT CNG (outside fitted),2018,41,19.365,5.0,Petrol+cng,Automatic,170.0,350.0,43.0,88.51,6.99
+Skoda,Skoda Kushaq Ambition 1.0L TSI MT,2021,26,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,11.97
+Mahindra,Mahindra XUV 300 W8 Petrol,2020,11,17.01,5.0,Petrol,Manual,180.0,259.0,42.0,108.6,9.7
+Ford,Ford EcoSport Titanium+ 1.0L EcoBoost,2017,59,18.9,5.0,Petrol,Manual,200.0,352.0,52.0,124.0,6.95
+Maruti Suzuki,Maruti Suzuki Baleno Zeta AT Petrol+cng(Outside fitted),2019,47,19.56,5.0,Petrol+cng,Automatic,170.0,339.0,37.0,81.8,7.79
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS Dual Tone,2016,80,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,88.5,5.9
+Volkswagen,Volkswagen Polo Comfortline 1.2L CNG (Outside Fitted),2017,39,16.2,5.0,Petrol+cng,Manual,165.0,280.0,45.0,74.0,5.64
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI,2014,40,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.0,5.4
+Honda,Honda City V (AVN),2013,74,16.8,5.0,Petrol,Manual,165.0,506.0,42.0,116.3,4.98
+Honda,Honda Brio VX MT,2015,56,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,4.03
+Mahindra,Mahindra KUV100 K4 D 6 STR,2017,24,25.32,6.0,Diesel,Manual,170.0,243.0,35.0,77.0,3.92
+Hyundai,Hyundai i10 Era Petrol,2011,33,19.81,5.0,Petrol,Manual,165.0,225.0,35.0,68.05,2.42
+Hyundai,Hyundai i10 Era Petrol,2011,90,19.81,5.0,Petrol,Manual,165.0,225.0,35.0,68.05,2.18
+Maruti Suzuki,Maruti Suzuki Swift VXI,2014,77,18.6,5.0,Petrol,Manual,170.0,232.0,42.0,85.8,3.81
+Maruti Suzuki,Maruti Suzuki Baleno Sigma Petrol,2019,17,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.66
+Renault,Renault Duster RxL Petrol,2015,39,13.06,5.0,Petrol,Manual,205.0,350.0,50.0,102.53,5.52
+Renault,Renault Triber RXT,2019,48,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,5.54
+Renault,Renault Kwid 1.0 RXT Opt,2020,38,22.0,5.0,Petrol,Manual,180.0,279.0,28.0,67.0,4.59
+Renault,Renault Kiger RXZ 1.0 Turbo MT Dual Tone,2021,27,20.53,5.0,Petrol,Manual,205.0,405.0,40.0,99.0,7.29
+Maruti Suzuki,Maruti Suzuki Ertiga ZDI + SHVS,2017,90,24.52,7.0,Diesel,Manual,185.0,135.0,45.0,89.0,7.58
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2018,33,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.72
+Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT,2014,29,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.11
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2017,66,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.37
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2015,27,18.6,5.0,Petrol,Manual,170.0,350.0,42.0,85.8,4.95
+Maruti Suzuki,Maruti Suzuki Swift ZDi Plus,2019,34,25.2,5.0,Diesel,Manual,163.0,268.0,42.0,74.0,6.68
+Skoda,Skoda Kushaq Style 1.0L TSI MT,2021,14,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,13.45
+Skoda,Skoda Kushaq Ambition 1.0L TSI MT,2022,11,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,12.2
+Skoda,Skoda Kushaq Style 1.5L TSI MT,2021,31,17.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,14.19
+Hyundai,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,2021,41,20.7,5.0,Petrol,Manual,165.0,260.0,37.0,81.86,6.22
+Toyota,Toyota Innova Crysta 2.4 ZX 7 STR,2021,96,17.0,7.0,Diesel,Manual,176.0,300.0,65.0,148.0,20.15
+Maruti Suzuki,Maruti Suzuki Ertiga VXI,2012,58,16.02,7.0,Petrol,Manual,185.0,135.0,45.0,93.7,4.54
+Hyundai,Hyundai Verna 1.6 VTVT SX,2019,48,17.4,5.0,Petrol,Manual,165.0,480.0,43.0,121.0,8.43
+Tata,Tata Hexa XT,2017,49,17.6,7.0,Diesel,Manual,200.0,128.0,60.0,153.86,10.17
+Kia,Kia Seltos GTX Plus DCT,2020,40,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,16.2
+Mahindra,Mahindra Thar LX 4 STR Hard Top Petrol AT,2021,13,19.365,4.0,Petrol,Automatic,226.0,350.0,57.0,150.0,15.73
+Hyundai,Hyundai Creta 1.6 SX VTVT,2018,77,15.29,5.0,Petrol,Manual,190.0,400.0,55.0,122.0,9.41
+Toyota,Toyota Corolla Altis GL Petrol,2012,53,19.365,5.0,Petrol,Manual,175.0,470.0,55.0,88.51,4.84
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2014,35,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,3.95
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2016,96,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,7.23
+Honda,Honda City 1.5 S MT,2013,50,16.8,5.0,Petrol,Manual,170.0,350.0,42.0,88.51,4.17
+Mahindra,Mahindra XUV700 AX 7 Petrol MT 7 STR,2022,15,15.0,7.0,Petrol,Manual,200.0,350.0,60.0,197.0,20.39
+Renault,Renault Kwid RXT Opt,2019,63,25.17,5.0,Petrol,Manual,180.0,350.0,28.0,53.3,3.47
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2016,34,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.19
+Kia,Kia Seltos HTX Plus D,2020,66,20.8,5.0,Diesel,Manual,170.0,433.0,50.0,88.51,13.41
+Kia,Kia Seltos HTX IVT G,2020,15,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,113.4,14.2
+Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi,2019,39,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,7.39
+Honda,Honda Brio S MT,2016,79,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,4.03
+Hyundai,Hyundai i20 N Line N8 1.0 Turbo DCT,2022,13,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,11.49
+Ford,Ford EcoSport Titanium + 1.5L Ti-VCT,2019,38,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,121.0,8.1
+Maruti Suzuki,Maruti Suzuki S-Presso VXI+,2021,7,21.01,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,4.43
+Mahindra,Mahindra XUV500 W7,2020,44,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,152.0,13.53
+Honda,Honda Amaze 1.2 VX CVT i-VTEC,2021,25,18.6,5.0,Petrol,Automatic,170.0,420.0,35.0,88.76,8.0
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2017,75,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,8.59
+Tata,Tata Nexon XM Petrol,2019,73,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.3,6.38
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,52,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.83
+Chevrolet,Chevrolet Beat LS Petrol,2014,58,18.6,5.0,Petrol,Manual,165.0,350.0,35.0,79.0,1.99
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2020,20,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.84
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT AT,2014,100,16.5,5.0,Petrol,Automatic,200.0,346.0,52.0,109.0,5.13
+Kia,Kia Seltos GTX,2019,26,16.1,5.0,Petrol,Manual,190.0,433.0,50.0,138.0,12.44
+Maruti Suzuki,Maruti Suzuki Celerio X VXI Petrol+cng(outside fitted),2018,43,23.1,5.0,Petrol+cng,Manual,165.0,235.0,35.0,63.0,4.87
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol+CNG (Outside Fitted),2016,54,21.01,5.0,Petrol+cng,Manual,170.0,339.0,37.0,81.8,5.8
+Ford,Ford EcoSport Ambiente 1.5L TDCi,2017,80,22.7,5.0,Diesel,Manual,200.0,346.0,52.0,99.0,5.36
+Nissan,Nissan Terrano XL Petrol,2016,38,13.24,5.0,Petrol,Manual,205.0,475.0,50.0,102.5,5.87
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2018,38,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.44
+Maruti Suzuki,Maruti Suzuki Swift VXI,2019,39,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,5.47
+Hyundai,Hyundai Venue SX 1.0 Turbo iMT,2021,12,18.0,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,10.23
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Opt CNG,2020,81,31.19,5.0,Petrol+cng,Manual,180.0,270.0,27.0,58.0,4.0
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2018,35,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.1,7.95
+Maruti Suzuki,Maruti Suzuki Swift VXI,2022,15,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.8
+Tata,Tata Safari XZ Plus,2021,36,16.14,7.0,Diesel,Manual,205.0,350.0,50.0,88.51,19.14
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2021,10,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,11.18
+Ford,Ford EcoSport Trend 1.5L TDCi,2019,89,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,6.96
+Honda,Honda City ZX,2022,13,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.35,13.49
+Maruti Suzuki,Maruti Suzuki Celerio VXI CNG,2019,37,30.47,5.0,Petrol+cng,Manual,165.0,235.0,60.0,58.33,4.9
+Nissan,Nissan Magnite XV Premium Turbo Dual Tone,2020,20,19.365,5.0,Petrol,Manual,170.0,350.0,43.0,88.51,8.41
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,37,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.81
+Maruti Suzuki,Maruti Suzuki XL6 Zeta MT Petrol,2022,14,19.01,6.0,Petrol,Manual,180.0,209.0,45.0,103.2,11.2
+Tata,Tata Nexon XM Petrol,2019,39,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.3,6.99
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2021,70,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.89
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2019,34,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,7.3
+Kia,Kia Seltos HTX IVT G,2020,26,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,113.4,14.42
+Volkswagen,Volkswagen Polo Comfortline 1.0L (P),2018,56,17.74,5.0,Petrol,Manual,165.0,280.0,45.0,75.01,5.38
+Skoda,Skoda Slavia Style 1.0L TSI MT,2022,25,19.47,5.0,Petrol,Manual,179.0,521.0,45.0,114.0,13.82
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2015,52,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.3
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2020,17,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.84
+Honda,Honda Amaze 1.2 S i-VTEC,2015,77,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,3.94
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2019,41,24.07,5.0,Petrol,Manual,160.0,177.0,35.0,67.0,3.57
+Tata,Tata Safari XZA Plus 6S,2021,41,14.08,7.0,Diesel,Automatic,205.0,73.0,50.0,167.67,18.4
+Tata,Tata Nexon XZA Plus AMT Petrol,2018,100,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,108.5,6.9
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.5 AT,2020,35,18.43,5.0,Petrol,Automatic,180.0,375.0,48.0,88.51,9.73
+Honda,Honda City V,2011,97,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,3.28
+Toyota,Toyota Corolla Altis G Petrol,2018,80,14.28,5.0,Petrol,Manual,175.0,470.0,55.0,138.03,11.29
+Tata,Tata Harrier XZ,2019,37,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,13.72
+Toyota,Toyota Camry Hybrid,2015,70,19.16,5.0,Petrol,Automatic,160.0,350.0,65.0,158.0,16.17
+Honda,Honda City ZX,2021,13,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.35,12.84
+Maruti Suzuki,Maruti Suzuki Ciaz S Petrol,2018,43,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.1,7.79
+Hyundai,Hyundai Venue SX 1.0 Turbo,2020,41,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,8.65
+Honda,Honda Amaze 1.2 S i-VTEC,2017,22,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,5.2
+Honda,Honda City VX,2020,39,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,11.55
+Maruti Suzuki,Maruti Suzuki Dzire ZDI,2018,18,23.26,5.0,Diesel,Manual,163.0,378.0,37.0,74.02,6.74
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,31,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,10.22
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2013,59,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,2.83
+Honda,Honda WR-V VX i-VTEC,2018,20,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,7.36
+Honda,Honda Amaze 1.2 VX i-VTEC,2015,33,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.9,4.9
+Honda,Honda City V,2016,49,17.8,5.0,Petrol,Manual,165.0,510.0,40.0,117.3,6.98
+Hyundai,Hyundai i10 Sportz Petrol,2014,65,20.36,5.0,Petrol,Manual,165.0,225.0,35.0,68.0,3.38
+Maruti Suzuki,Maruti Suzuki Dzire VDI,2018,57,28.4,5.0,Diesel,Manual,170.0,378.0,37.0,74.0,6.38
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,41,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,10.4
+Tata,Tata Safari XZA Plus,2021,22,19.365,7.0,Diesel,Automatic,170.0,350.0,50.0,167.67,20.2
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha AT Petrol,2018,45,20.0,5.0,Petrol,Automatic,170.0,510.0,43.0,103.25,8.85
+Honda,Honda WR-V VX i-VTEC,2019,25,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,7.81
+Honda,Honda City V,2013,45,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,4.56
+Tata,Tata Harrier XZ,2019,44,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,13.52
+Honda,Honda Jazz V CVT,2018,51,17.01,5.0,Petrol,Automatic,170.0,354.0,40.0,88.51,6.74
+Hyundai,Hyundai Verna 1.6 VTVT SX,2019,21,17.4,5.0,Petrol,Manual,165.0,480.0,43.0,121.0,9.32
+Kia,Kia Seltos HTK G,2020,23,16.8,5.0,Petrol,Manual,190.0,433.0,50.0,113.4,10.83
+Honda,Honda City ZX,2019,14,17.04,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,10.22
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2018,23,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,89.0,7.42
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2019,26,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.56
+Hyundai,Hyundai Santro Xing GL Plus,2014,61,17.92,5.0,Petrol,Manual,172.0,350.0,35.0,62.1,2.89
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi AMT,2019,37,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,88.5,8.33
+Maruti Suzuki,Maruti Suzuki Dzire ZXI AMT,2017,72,23.26,5.0,Petrol,Automatic,163.0,378.0,37.0,88.5,6.21
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2018,57,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.1,7.06
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2014,76,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.1
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2019,75,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.0
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2018,60,20.5,5.0,Petrol+cng,Manual,165.0,350.0,35.0,58.0,4.31
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2020,23,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.22
+Mahindra,Mahindra Scorpio S5,2018,35,16.36,7.0,Diesel,Manual,180.0,460.0,60.0,138.13,10.36
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2017,50,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,9.38
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,36,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,10.21
+Hyundai,Hyundai Elite i20 Asta 1.2 (O),2019,18,19.8,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,7.31
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2021,21,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.33,3.44
+Hyundai,Hyundai Verna SX(O) AT Petrol+cng(outside fitted),2018,45,17.0,5.0,Petrol+cng,Automatic,165.0,480.0,45.0,121.3,9.48
+Honda,Honda City V,2013,90,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,4.77
+Hyundai,Hyundai Venue SX 1.4 CRDI,2019,35,23.7,5.0,Diesel,Manual,190.0,350.0,45.0,98.6,8.46
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2014,86,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,3.88
+Honda,Honda City V,2013,37,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,5.01
+Tata,Tata Harrier XZ,2019,74,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,12.25
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2019,44,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.2
+Maruti Suzuki,Maruti Suzuki Baleno Zeta AT Petrol,2016,76,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,5.33
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Diesel,2019,46,19.365,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,8.2
+Ford,Ford EcoSport Titanium + 1.5L Ti-VCT,2020,34,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,121.0,8.92
+Hyundai,Hyundai Elite i20 Sportz 1.2,2017,48,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.55
+Hyundai,Hyundai Creta 1.6 SX VTVT,2018,28,15.29,5.0,Petrol,Manual,190.0,400.0,55.0,122.0,9.9
+Hyundai,Hyundai Elite i20 Sportz 1.2,2017,42,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.69
+Honda,Honda City VX CVT,2015,75,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,117.3,6.76
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.5,2020,20,18.55,5.0,Petrol,Manual,170.0,375.0,48.0,103.25,10.33
+Honda,Honda WR-V i-DTEC VX,2018,61,23.7,5.0,Diesel,Manual,188.0,363.0,40.0,97.89,6.8
+Renault,Renault Triber RXZ AMT,2020,14,18.2,7.0,Petrol,Automatic,182.0,84.0,40.0,72.0,7.07
+Hyundai,Hyundai Creta 1.6 S Petrol,2016,65,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,7.87
+Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX AT,2014,99,17.01,5.0,Petrol,Automatic,170.0,350.0,43.0,121.0,5.22
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,58,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,10.93
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZXI Plus,2021,13,17.03,5.0,Petrol,Manual,170.0,328.0,48.0,103.26,9.62
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI+ AT,2016,39,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,6.93
+Honda,Honda WR-V i-VTEC VX,2021,10,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.51,8.84
+Hyundai,Hyundai Verna 1.6 VTVT SX (O),2019,88,17.4,5.0,Petrol,Manual,165.0,465.0,43.0,121.0,8.99
+Maruti Suzuki,Maruti Suzuki Ciaz Zeta Petrol AT,2018,17,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,8.19
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2013,81,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.61
+Maruti Suzuki,Maruti Suzuki Ciaz Delta Petrol,2018,50,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.1,6.62
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2016,88,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,8.55
+Maruti Suzuki,Maruti Suzuki Swift VXI,2014,55,18.6,5.0,Petrol,Manual,170.0,232.0,42.0,85.8,3.81
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2017,51,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.66
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,45,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.71
+Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi,2019,24,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,7.59
+Honda,Honda City V,2011,79,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,3.55
+Hyundai,Hyundai Venue S 1.0 Turbo DCT,2019,27,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,88.51,9.1
+MG,MG Motors Hector 2.0 Sharp,2020,36,17.41,5.0,Diesel,Manual,183.0,587.0,60.0,167.68,15.44
+Tata,Tata Hexa XM,2019,62,17.6,7.0,Diesel,Manual,200.0,128.0,60.0,153.6,9.86
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2018,44,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,9.66
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI Petrol + CNG (Outside Fitted),2013,53,15.0,5.0,Petrol+cng,Manual,165.0,350.0,35.0,67.1,3.59
+Nissan,Nissan Kicks XV Diesel,2019,19,19.365,5.0,Diesel,Manual,210.0,400.0,50.0,88.51,8.5
+Honda,Honda Amaze 1.2 V i-VTEC Petrol+CNG (Outside Fitted),2019,47,18.6,5.0,Petrol+cng,Manual,165.0,420.0,35.0,88.76,6.62
+Hyundai,Hyundai Creta 1.6 SX,2019,14,19.365,5.0,Diesel,Manual,170.0,400.0,55.0,126.0,11.25
+Mahindra,Mahindra XUV 300 W8 Diesel,2019,42,20.0,5.0,Diesel,Manual,180.0,259.0,42.0,115.0,9.14
+Skoda,Skoda Kushaq Style 1.0L TSI MT,2021,16,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,13.42
+Tata,Tata Nexon XZA Plus AMT Diesel,2021,47,21.5,5.0,Diesel,Automatic,209.0,350.0,44.0,108.5,10.77
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI,2014,38,18.9,5.0,Petrol,Manual,165.0,180.0,35.0,67.1,3.07
+Nissan,Nissan Terrano XL Petrol,2014,98,13.24,5.0,Petrol,Manual,205.0,475.0,50.0,102.5,5.43
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2018,95,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.68
+Volkswagen,Volkswagen Polo Highline1.2L (P),2015,82,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,5.53
+Honda,Honda WR-V VX i-VTEC,2019,19,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,8.27
+Hyundai,Hyundai Eon Magna,2016,39,22.0,5.0,Petrol,Manual,170.0,350.0,32.0,55.0,3.45
+Maruti Suzuki,Maruti Suzuki Ertiga ZDi,2015,52,20.77,7.0,Diesel,Manual,185.0,350.0,45.0,89.0,8.77
+Tata,Tata Tiago Revotron XT,2022,15,20.0,5.0,Petrol,Manual,170.0,242.0,35.0,85.0,6.65
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2019,19,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.37
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2015,53,18.6,5.0,Petrol,Manual,170.0,350.0,42.0,85.8,5.34
+Hyundai,Hyundai Elite i20 Asta 1.2,2017,36,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,7.15
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,35,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,10.95
+Hyundai,Hyundai i20 Era 1.2,2013,78,18.15,5.0,Petrol,Manual,170.0,295.0,45.0,80.0,3.87
+Hyundai,Hyundai New i20 Asta (O) 1.0 Turbo DCT,2021,15,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,11.89
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.3 Diesel,2017,43,28.09,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,8.36
+Hyundai,Hyundai Elite i20 Sportz 1.4 CRDI,2017,52,22.54,5.0,Diesel,Manual,170.0,285.0,45.0,89.0,6.9
+Hyundai,Hyundai Aura SX Plus 1.2 AMT Petrol,2022,6,19.365,5.0,Petrol,Automatic,170.0,402.0,37.0,88.51,8.74
+Hyundai,Hyundai Creta SX Petrol,2021,12,14.0,5.0,Petrol,Manual,190.0,350.0,43.0,113.0,14.94
+Mahindra,Mahindra XUV 300 W8 AMT (O) Diesel,2020,50,20.0,5.0,Diesel,Automatic,180.0,350.0,42.0,115.0,13.2
+Tata,Tata Nexon XZA Plus Dual Tone Roof AMT Petrol,2018,18,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,118.0,10.41
+Volkswagen,Volkswagen Vento Comfortline Petrol,2014,75,15.04,5.0,Petrol,Manual,168.0,480.0,55.0,103.0,5.39
+Hyundai,Hyundai Santro Xing GLS,2013,32,17.92,5.0,Petrol,Manual,170.0,350.0,35.0,62.1,3.41
+Maruti Suzuki,Maruti Suzuki Baleno Delta AT Petrol,2017,33,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.18
+Maruti Suzuki,Maruti Suzuki S-Presso VXI+,2019,24,21.01,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,4.18
+Tata,Tata Nexon XZA Plus AMT Petrol,2018,23,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,108.5,9.89
+Volkswagen,Volkswagen Polo Highline 1.2 (D),2014,97,19.365,5.0,Diesel,Manual,165.0,350.0,45.0,88.51,5.85
+Hyundai,Hyundai Creta 1.4 E +,2019,46,21.38,5.0,Diesel,Manual,190.0,400.0,55.0,89.0,11.71
+Hyundai,Hyundai Santro Xing GLS,2013,48,17.92,5.0,Petrol,Manual,170.0,350.0,35.0,62.1,3.42
+Maruti Suzuki,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,2018,13,16.11,5.0,Petrol,Manual,160.0,540.0,40.0,72.42,4.67
+Maruti Suzuki,Maruti Suzuki Swift VXI,2020,16,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.72
+Kia,Kia Sonet GTX Plus 1.0 iMT,2021,16,18.2,5.0,Petrol,Manual,170.0,392.0,45.0,88.51,12.58
+Volkswagen,Volkswagen Vento Highline 1.0L TSI,2020,65,17.69,5.0,Petrol,Manual,163.0,494.0,55.0,109.0,8.99
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2020,21,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,9.39
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2018,29,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,7.98
+Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,2018,49,17.0,5.0,Petrol,Automatic,165.0,480.0,45.0,121.3,11.21
+Hyundai,Hyundai Elite i20 Asta 1.2 (O),2017,73,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.73
+Tata,Tata Tiago Revotron XT,2017,40,23.84,5.0,Petrol,Manual,170.0,242.0,35.0,84.0,4.93
+Honda,Honda Amaze 1.2 S i-VTEC,2014,28,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,4.55
+Hyundai,Hyundai Xcent SX Petrol,2017,14,19.1,5.0,Petrol,Manual,165.0,407.0,43.0,81.0,6.16
+MG,MG Motors Astor Sharp EX 1.5 MT,2022,10,19.365,5.0,Petrol,Manual,170.0,488.0,48.0,108.0,14.75
+Volkswagen,Volkswagen Polo Highline1.2L (P),2013,54,16.47,5.0,Petrol,Manual,168.0,350.0,45.0,73.9,5.21
+Maruti Suzuki,Maruti Suzuki Celerio ZXI (O) AMT,2017,57,23.1,5.0,Petrol,Automatic,120.0,235.0,35.0,67.04,4.64
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2019,24,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,5.3
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDI,2015,60,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,6.11
+Hyundai,Hyundai Grand i10 sportz (o) 1.2 U2 CRDi Diesel,2017,49,24.95,5.0,Diesel,Manual,165.0,350.0,43.0,74.0,6.11
+Tata,Tata Zest XMA Diesel,2014,59,23.0,5.0,Diesel,Automatic,165.0,350.0,44.0,89.0,4.85
+Hyundai,Hyundai Elite i20 Sportz 1.2,2018,29,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,7.21
+Tata,Tata Altroz XM Plus 1.5,2021,67,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,7.22
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,53,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.61
+Hyundai,Hyundai i20 Sportz 1.2,2013,44,18.15,5.0,Petrol,Manual,165.0,295.0,45.0,83.0,4.76
+Mahindra,Mahindra XUV500 W8,2012,91,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,140.0,7.9
+Hyundai,Hyundai Xcent S AT Petrol,2017,25,20.14,5.0,Petrol,Automatic,165.0,407.0,43.0,81.86,6.45
+Renault,Renault Kiger RXZ Turbo CVT,2021,22,20.53,5.0,Petrol,Automatic,205.0,405.0,40.0,99.0,10.63
+Tata,Tata Harrier XZ,2019,38,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,15.65
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2019,25,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.85
+Mahindra,Mahindra XUV 300 W6 AMT Diesel,2021,51,20.0,5.0,Diesel,Automatic,180.0,259.0,42.0,115.0,11.41
+Tata,Tata Nexon XZA Plus AMT Diesel,2019,54,21.5,5.0,Diesel,Automatic,170.0,350.0,44.0,88.51,9.64
+Ford,Ford Freestyle Titanium 1.2,2019,18,18.5,5.0,Petrol,Manual,170.0,257.0,42.0,94.93,6.57
+Hyundai,Hyundai Elite i20 Asta 1.2,2015,44,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.43
+Maruti Suzuki,Maruti Suzuki Ritz Vdi,2016,59,23.2,5.0,Diesel,Manual,170.0,236.0,43.0,73.0,5.51
+Tata,Tata Nano Twist XT Petrol,2014,20,25.4,4.0,Petrol,Manual,180.0,80.0,15.0,37.5,2.12
+Tata,Tata Safari XZ Plus,2021,71,16.14,7.0,Diesel,Manual,205.0,350.0,50.0,88.51,19.05
+Maruti Suzuki,Maruti Suzuki Baleno Zeta AT Petrol,2016,40,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.21
+Nissan,Nissan Magnite XV Turbo CVT,2021,10,19.365,5.0,Petrol,Automatic,205.0,336.0,40.0,88.51,9.41
+Renault,Renault Kiger RXZ Turbo CVT,2021,15,20.53,5.0,Petrol,Automatic,205.0,405.0,40.0,99.0,10.76
+Hyundai,Hyundai Neo Fluidic Elantra 1.6 SX AT CRDi,2013,98,19.365,5.0,Diesel,Automatic,175.0,420.0,56.0,88.51,7.18
+Maruti Suzuki,Maruti Suzuki Eeco AC 5 STR,2021,12,16.11,5.0,Petrol,Manual,160.0,540.0,40.0,72.42,5.39
+Maruti Suzuki,Maruti Suzuki Dzire VXI,2020,20,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,7.49
+Kia,Kia Sonet HTX Plus 1.0 iMT,2020,13,18.3,5.0,Petrol,Manual,205.0,392.0,45.0,118.0,11.99
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2020,72,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.25
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2015,21,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.12
+Maruti Suzuki,Maruti Suzuki Celerio VXI AMT,2017,35,23.1,5.0,Petrol,Automatic,165.0,235.0,35.0,67.04,4.96
+Hyundai,Hyundai Elite i20 Sportz 1.2,2016,54,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.43
+Ford,Ford EcoSport Titanium + 1.5L Ti-VCT AT,2018,21,14.7,5.0,Petrol,Automatic,200.0,352.0,52.0,120.69,9.98
+Hyundai,Hyundai i20 Sportz 1.4 CRDI,2012,45,14.9,5.0,Diesel,Manual,165.0,295.0,45.0,90.0,5.61
+Mahindra,Mahindra TUV300 T8,2015,83,18.49,7.0,Diesel,Manual,184.0,384.0,60.0,84.0,6.14
+Skoda,Skoda Rapid New Ambition Petrol,2017,29,15.0,5.0,Petrol,Manual,168.0,350.0,55.0,103.0,7.26
+Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,2018,50,17.0,5.0,Petrol,Automatic,165.0,480.0,45.0,121.3,10.7
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2021,39,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,5.6
+Hyundai,Hyundai Elite i20 Asta 1.2,2015,64,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.41
+Renault,Renault Duster 85 PS RXS MT,2016,35,19.365,5.0,Diesel,Manual,205.0,475.0,50.0,88.51,8.13
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2018,82,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,12.99
+Renault,Renault Triber RXZ,2021,16,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,7.64
+Hyundai,Hyundai Grand i10 Sportz 1.2 CRDi,2018,32,24.95,5.0,Diesel,Manual,165.0,256.0,43.0,74.0,6.71
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT AT,2017,21,16.5,5.0,Petrol,Automatic,200.0,346.0,52.0,110.0,8.58
+Honda,Honda WR-V i-DTEC VX,2019,84,23.7,5.0,Diesel,Manual,188.0,363.0,40.0,97.89,8.82
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI (O),2016,80,24.07,5.0,Petrol,Manual,160.0,350.0,35.0,67.0,3.07
+Ford,Ford EcoSport Signature Edition Petrol,2019,49,18.88,5.0,Petrol,Manual,200.0,346.0,52.0,110.4,9.49
+Hyundai,Hyundai Santa Fe 2 WD,2015,92,10.25,7.0,Diesel,Manual,185.0,350.0,64.0,194.0,11.65
+Kia,Kia Seltos GTX DCT,2020,22,16.1,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,16.39
+Ford,Ford Freestyle Titanium 1.2,2020,15,18.5,5.0,Petrol,Manual,170.0,257.0,42.0,94.93,6.93
+Tata,Tata Harrier XZ,2019,52,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,16.38
+Maruti Suzuki,Maruti Suzuki Alto LXI,2011,39,19.7,5.0,Petrol,Manual,160.0,350.0,35.0,46.3,2.57
+Maruti Suzuki,Maruti Suzuki Ritz VXI,2013,59,18.5,5.0,Petrol,Manual,170.0,350.0,43.0,85.0,3.99
+Hyundai,Hyundai i10 Era Petrol,2012,64,19.81,5.0,Petrol,Manual,165.0,225.0,35.0,68.05,3.08
+Tata,Tata Harrier XZ,2019,62,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,15.81
+Hyundai,Hyundai Santro Xing GLS,2011,57,17.92,5.0,Petrol,Manual,170.0,350.0,35.0,62.1,2.64
+Honda,Honda City V 4th Gen,2018,60,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,8.27
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2018,64,24.07,5.0,Petrol,Manual,160.0,177.0,35.0,67.0,3.63
+Honda,Honda WR-V VX i-VTEC,2019,54,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,8.23
+Ford,Ford EcoSport Titanium 1.5L TDCi (Opt),2016,85,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,7.57
+Hyundai,Hyundai Verna SX Opt IVT Petrol,2020,18,18.4,5.0,Petrol,Automatic,170.0,480.0,45.0,113.0,13.48
+Hyundai,Hyundai Creta 1.6 SX,2017,49,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,11.38
+Maruti Suzuki,Maruti Suzuki Ritz VXI,2013,69,18.5,5.0,Petrol,Manual,170.0,350.0,43.0,85.0,4.09
+Ford,Ford Figo Titanium Petrol,2020,17,18.5,5.0,Petrol,Manual,170.0,350.0,42.0,88.51,6.11
+Maruti Suzuki,Maruti Suzuki S-Presso VXI+,2021,15,21.01,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,5.06
+Renault,Renault Duster 110 PS RxL,2012,82,19.01,5.0,Diesel,Manual,205.0,350.0,50.0,108.0,5.51
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2017,15,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.49
+Honda,Honda Amaze 1.2 VX i-VTEC,2015,44,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.9,5.4
+Toyota,Toyota Yaris VX CVT,2020,27,18.1,5.0,Petrol,Automatic,170.0,476.0,42.0,105.94,10.09
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2013,45,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.8
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2013,75,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.66
+Maruti Suzuki,Maruti Suzuki Ritz Vdi,2012,46,15.6,5.0,Diesel,Manual,170.0,350.0,43.0,75.0,4.47
+Hyundai,Hyundai Fluidic Verna 4S 1.6 VTVT SX,2017,25,17.4,5.0,Petrol,Manual,165.0,465.0,43.0,121.0,8.06
+Renault,Renault Triber RXZ,2020,27,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,7.11
+Tata,Tata Nexon XZA Plus AMT Petrol,2019,29,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,108.5,10.18
+Maruti Suzuki,Maruti Suzuki Dzire VXI AMT,2018,20,24.12,5.0,Petrol,Automatic,163.0,378.0,37.0,88.5,7.15
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,77,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,11.26
+Maruti Suzuki,Maruti Suzuki Ritz VXI,2013,48,18.5,5.0,Petrol,Manual,170.0,350.0,43.0,85.0,3.81
+Honda,Honda WR-V VX i-VTEC,2019,17,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,8.69
+Hyundai,Hyundai i20 Sportz 1.4 CRDI,2013,84,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,4.48
+Hyundai,Hyundai Creta 1.6 SX Plus,2017,89,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.97
+Maruti Suzuki,Maruti Suzuki S-Presso VXI CNG,2021,17,31.19,5.0,Petrol+cng,Manual,180.0,270.0,27.0,67.0,5.68
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDI,2013,49,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,5.63
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2020,30,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,7.58
+Chevrolet,Chevrolet Cruze LTZ AT,2015,72,14.81,5.0,Diesel,Automatic,165.0,350.0,60.0,164.0,8.04
+Renault,Renault Duster RXS CVT Petrol,2019,41,15.0,5.0,Petrol,Automatic,205.0,475.0,50.0,88.51,9.0
+Maruti Suzuki,Maruti Suzuki Ertiga ZDI + SHVS,2018,58,24.52,7.0,Diesel,Manual,185.0,135.0,45.0,89.0,10.73
+Maruti Suzuki,Maruti Suzuki S-Presso VXI+,2020,6,21.01,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,5.03
+Honda,Honda Jazz V Diesel,2016,97,27.3,5.0,Diesel,Manual,165.0,350.0,40.0,88.51,5.85
+Volkswagen,Volkswagen Polo All Star 1.5 (D),2017,90,20.18,5.0,Diesel,Manual,165.0,295.0,45.0,88.0,7.27
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus AMT,2017,29,24.12,5.0,Petrol,Automatic,170.0,378.0,37.0,88.5,7.4
+Hyundai,Hyundai Xcent SX Petrol,2018,14,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,6.71
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2013,75,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.8
+Tata,Tata Harrier XZ Plus,2021,28,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,167.67,19.37
+Honda,Honda Amaze 1.2 VX i-VTEC,2015,54,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.9,5.07
+Hyundai,Hyundai Creta 1.4 S,2018,38,21.38,5.0,Diesel,Manual,190.0,400.0,55.0,89.0,10.65
+Kia,Kia Sonet GTX Plus 1.5 Dual Tone,2020,16,24.0,5.0,Diesel,Manual,205.0,392.0,45.0,99.0,13.43
+Volkswagen,Volkswagen Polo Highline Plus 1.0 MPI,2018,53,18.24,5.0,Petrol,Manual,165.0,280.0,45.0,74.96,7.64
+Renault,Renault Scala RxZ Diesel,2017,23,21.64,5.0,Diesel,Manual,161.0,490.0,41.0,85.0,7.48
+Renault,Renault Duster 85 PS RxL (Opt),2013,89,20.45,5.0,Diesel,Manual,205.0,475.0,50.0,84.0,5.64
+Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,2018,25,17.0,5.0,Petrol,Automatic,165.0,480.0,45.0,121.3,11.03
+Ford,Ford Figo Aspire Titanium Plus 1.2 Ti-VCT,2020,18,18.5,5.0,Petrol,Manual,174.0,359.0,42.0,94.93,6.86
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2017,57,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,10.05
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS Dual Tone,2017,57,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,88.5,9.76
+Mahindra,Mahindra XUV500 W9,2021,21,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,152.0,18.38
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2019,25,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,8.13
+Honda,Honda City VX CVT,2021,12,18.4,5.0,Petrol,Automatic,165.0,506.0,40.0,119.3,14.2
+Ford,Ford Freestyle Titanium Plus 1.2 Ti-VCT,2021,37,18.5,5.0,Petrol,Manual,190.0,257.0,42.0,88.51,6.64
+Maruti Suzuki,Maruti Suzuki Alto LXI,2011,53,19.7,5.0,Petrol,Manual,160.0,350.0,35.0,46.3,2.52
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,33,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,12.99
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2019,51,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.95
+Mahindra,Mahindra Marazzo M6 8str,2019,83,17.3,8.0,Diesel,Manual,170.0,190.0,45.0,121.0,10.25
+Kia,Kia Seltos GTX Plus DCT,2019,24,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,16.15
+Hyundai,Hyundai Elite i20 Asta 1.2,2017,57,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,7.09
+Ford,Ford EcoSport Titanium 1.5L TDCi,2019,68,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.86,8.8
+Maruti Suzuki,Maruti Suzuki Swift VXI,2011,53,16.1,5.0,Petrol,Manual,170.0,232.0,43.0,85.0,4.15
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo,2020,26,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,10.14
+Honda,Honda City ZX CVT,2017,34,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,117.6,11.19
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS AT Dual Tone,2018,32,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,89.0,10.25
+Hyundai,Hyundai Verna 1.6 VTVT SX,2019,23,17.4,5.0,Petrol,Manual,165.0,480.0,43.0,121.0,9.48
+Hyundai,Hyundai Elite i20 Sportz 1.2,2016,56,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.18
+Renault,Renault Triber RXZ,2021,12,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,7.53
+Honda,Honda WR-V i-DTEC VX,2019,30,23.7,5.0,Diesel,Manual,188.0,363.0,40.0,97.89,9.94
+Hyundai,Hyundai Elite i20 Sportz 1.2,2017,39,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.68
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2019,30,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,5.01
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus,2018,32,23.26,5.0,Petrol,Manual,163.0,378.0,37.0,88.5,7.3
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2019,18,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.85
+Ford,Ford Figo Titanium Petrol,2020,27,18.5,5.0,Petrol,Manual,170.0,350.0,42.0,88.51,5.96
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.3 Diesel,2018,53,28.09,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,8.99
+Maruti Suzuki,Maruti Suzuki Ritz VXI,2012,47,18.5,5.0,Petrol,Manual,170.0,350.0,45.0,85.0,3.65
+Honda,Honda Jazz SV MT,2016,95,18.7,5.0,Petrol,Manual,165.0,354.0,40.0,88.7,5.58
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI,2012,50,18.9,5.0,Petrol,Manual,165.0,180.0,35.0,67.1,3.31
+Maruti Suzuki,Maruti Suzuki Ertiga ZDI,2016,55,24.52,7.0,Diesel,Manual,185.0,135.0,45.0,89.0,8.69
+Volkswagen,Volkswagen Polo Highline1.2L (P),2015,96,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,5.78
+Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,2014,81,21.9,5.0,Diesel,Automatic,170.0,465.0,43.0,126.0,6.7
+Honda,Honda Mobilio V Petrol,2015,43,17.3,7.0,Petrol,Manual,189.0,350.0,42.0,118.0,6.16
+Mahindra,Mahindra Marazzo M6 8str,2019,90,17.3,8.0,Diesel,Manual,170.0,190.0,45.0,121.0,9.62
+Renault,Renault Captur RXE Petrol,2018,17,13.87,5.0,Petrol,Manual,210.0,392.0,50.0,88.51,7.68
+Hyundai,Hyundai Creta SX OPT Turbo DCT Petrol,2020,90,11.0,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,14.91
+Mahindra,Mahindra Marazzo M6,2019,22,17.3,7.0,Diesel,Manual,170.0,190.0,45.0,88.51,10.84
+Hyundai,Hyundai Creta 1.6 SX OPT VTVT,2018,70,19.365,5.0,Petrol,Manual,190.0,400.0,55.0,126.0,11.3
+Renault,Renault Duster RXL Petrol,2018,25,13.6,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,8.15
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus AMT,2019,31,24.12,5.0,Petrol,Automatic,170.0,378.0,37.0,88.5,7.83
+Hyundai,Hyundai Verna SX Opt Turbo Petrol,2020,32,19.2,5.0,Petrol,Automatic,170.0,480.0,45.0,118.0,13.48
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2018,36,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.46
+Hyundai,Hyundai Creta 1.4 S,2018,68,21.38,5.0,Diesel,Manual,190.0,400.0,55.0,89.0,11.5
+Honda,Honda City ZX,2020,18,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.35,13.4
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI+,2016,69,20.73,5.0,Petrol,Manual,170.0,510.0,43.0,91.1,6.55
+Honda,Honda Amaze 1.5 VX CVT i-DTEC,2019,30,21.0,5.0,Diesel,Automatic,170.0,420.0,35.0,79.0,9.43
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2011,97,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.15
+Ford,Ford EcoSport Titanium + 1.5L Ti-VCT,2020,39,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,121.0,10.02
+Tata,Tata Safari XZ Plus 6 STR,2021,40,16.14,6.0,Diesel,Manual,205.0,73.0,50.0,167.67,19.39
+Ford,Ford Figo Titanium1.5 TDCi,2016,55,25.83,5.0,Diesel,Manual,174.0,257.0,40.0,99.0,5.18
+Hyundai,Hyundai Xcent S AT Petrol,2017,23,20.14,5.0,Petrol,Automatic,165.0,407.0,43.0,81.86,6.31
+Skoda,Skoda Octavia 2.0 TDI AT Style,2016,63,19.365,5.0,Diesel,Automatic,170.0,350.0,43.0,88.51,15.82
+Honda,Honda BR-V VX MT Petrol,2017,29,15.4,7.0,Petrol,Manual,210.0,223.0,42.0,117.3,9.19
+Hyundai,Hyundai Elite i20 Magna 1.4 CRDI,2016,42,22.54,5.0,Diesel,Manual,170.0,285.0,45.0,89.0,6.62
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2018,31,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.59
+Mahindra,Mahindra TUV300 T8,2016,78,18.49,7.0,Diesel,Manual,184.0,384.0,60.0,84.0,6.81
+Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT,2015,35,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.99
+Tata,Tata Tiago XZ Plus Dual Tone Roof,2019,38,19.365,5.0,Petrol,Manual,170.0,350.0,35.0,88.51,5.66
+Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX,2011,60,17.01,5.0,Petrol,Manual,165.0,465.0,43.0,121.0,4.94
+Kia,Kia Seltos GTX Plus DCT,2019,31,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,15.99
+Kia,Kia Sonet HTX 1.0 DCT,2021,22,18.3,5.0,Petrol,Automatic,170.0,392.0,45.0,118.0,12.79
+Hyundai,Hyundai New i20 Sportz 1.2 MT,2022,7,21.0,5.0,Petrol,Manual,170.0,311.0,37.0,82.0,7.89
+Volkswagen,Volkswagen Polo Trendline 1.0 (P),2021,10,17.74,5.0,Petrol,Manual,165.0,280.0,45.0,75.1,6.27
+Volkswagen,Volkswagen Jetta Trendline TDI,2013,61,19.33,5.0,Diesel,Manual,170.0,350.0,55.0,88.51,5.79
+Honda,Honda CR-V 1.6 AT i-DTEC,2019,14,19.365,5.0,Diesel,Automatic,170.0,350.0,43.0,88.51,24.99
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,36,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.98
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2018,16,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,9.41
+Datsun,Datsun Redi-GO 1.0 Gold,2018,18,19.365,5.0,Petrol,Manual,185.0,350.0,28.0,88.51,2.6
+Hyundai,Hyundai i20 Sportz 1.4 CRDI,2012,60,14.9,5.0,Diesel,Manual,165.0,295.0,45.0,90.0,3.51
+Hyundai,Hyundai Creta 1.6 SX (O),2017,58,19.67,5.0,Diesel,Manual,190.0,350.0,43.0,88.51,10.19
+Volkswagen,Volkswagen Taigun Highline 1.0 TSI MT,2022,7,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,13.24
+Hyundai,Hyundai Creta 1.6 SX AT VTVT,2019,35,15.8,5.0,Petrol,Automatic,190.0,400.0,55.0,121.0,12.5
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2014,20,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,2.3
+Hyundai,Hyundai Aura SX 1.2 (O) Petrol,2020,23,20.5,5.0,Petrol,Manual,165.0,402.0,37.0,88.51,7.33
+Renault,Renault Duster RXS Turbo CVT Petrol,2020,10,19.365,5.0,Petrol,Automatic,170.0,350.0,43.0,88.51,11.58
+MG,MG Motors Hector Plus Sharp 2.0 Diesel Turbo MT 6-STR,2020,36,16.65,6.0,Diesel,Manual,192.0,155.0,60.0,88.51,18.0
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI (O) CNG,2022,33,32.52,5.0,Petrol+cng,Manual,170.0,341.0,60.0,58.33,5.93
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2020,21,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,4.79
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2016,55,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.11
+Renault,Renault Kwid RXL,2016,15,25.17,5.0,Petrol,Manual,180.0,300.0,28.0,53.3,2.34
+Mahindra,Mahindra Marazzo M8,2018,72,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,88.51,9.27
+Hyundai,Hyundai Venue SX 1.4 CRDI,2019,79,23.7,5.0,Diesel,Manual,190.0,350.0,45.0,98.6,9.36
+Hyundai,Hyundai Elite i20 Sportz 1.2,2015,65,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.79
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2021,22,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,5.64
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2020,29,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,5.27
+Maruti Suzuki,Maruti Suzuki XL6 Alpha MT Petrol,2019,21,19.01,6.0,Petrol,Manual,170.0,209.0,45.0,103.2,9.76
+Chevrolet,Chevrolet Beat LS Petrol,2014,45,18.6,5.0,Petrol,Manual,165.0,170.0,35.0,79.0,3.18
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2017,51,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.64
+Ford,Ford Freestyle Titanium Plus 1.5 TDCI,2020,50,23.8,5.0,Diesel,Manual,190.0,257.0,40.0,88.51,7.4
+Tata,Tata Tigor Revotron XZ+,2022,3,19.365,5.0,Petrol,Manual,170.0,419.0,35.0,88.51,7.53
+Ford,Ford EcoSport Titanium + 1.5L Ti-VCT AT,2020,21,14.7,5.0,Petrol,Automatic,200.0,352.0,52.0,120.69,10.01
+Mahindra,Mahindra XUV500 W5,2019,79,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,152.0,9.91
+Nissan,Nissan Terrano XV Premium amt diesel,2017,53,19.61,5.0,Diesel,Automatic,205.0,475.0,50.0,108.0,6.99
+Maruti Suzuki,Maruti Suzuki Ertiga VXI CNG,2017,50,26.0,7.0,Petrol+cng,Manual,185.0,209.0,60.0,91.19,8.51
+Hyundai,Hyundai i20 Asta 1.4 CRDI,2014,66,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,5.07
+Maruti Suzuki,Maruti Suzuki Dzire VDi AMT,2017,50,28.4,5.0,Diesel,Automatic,170.0,378.0,37.0,74.0,6.63
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2017,78,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,89.0,7.54
+Honda,Honda WR-V VX i-VTEC,2017,47,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,6.09
+Skoda,Skoda Superb Elegance 1.8 TSI AT,2015,58,13.1,5.0,Petrol,Automatic,159.0,565.0,60.0,158.0,10.12
+Honda,Honda Jazz V,2016,67,16.6,5.0,Petrol,Manual,165.0,354.0,40.0,88.51,4.53
+Tata,Tata Safari XT,2021,25,16.1,7.0,Diesel,Manual,205.0,350.0,43.0,168.0,16.97
+Tata,Tata Hexa XT 4X4,2019,9,19.365,7.0,Diesel,Manual,200.0,128.0,60.0,88.51,14.12
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2014,31,18.6,5.0,Petrol,Manual,170.0,350.0,42.0,85.8,4.62
+Maruti Suzuki,Maruti Suzuki Ciaz Delta AT Petrol,2021,8,20.65,5.0,Petrol,Automatic,170.0,510.0,43.0,103.25,10.73
+Volkswagen,Volkswagen Vento Comfortline Diesel,2015,80,20.5,5.0,Diesel,Manual,168.0,480.0,55.0,103.0,4.67
+Tata,Tata Harrier XZ Plus Dual Tone,2021,7,16.3,5.0,Diesel,Manual,205.0,425.0,50.0,168.0,18.3
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha AT Petrol,2018,44,20.0,5.0,Petrol,Automatic,170.0,510.0,43.0,103.25,7.77
+Honda,Honda Jazz VX MT,2019,10,16.6,5.0,Petrol,Manual,165.0,354.0,40.0,88.51,6.79
+Honda,Honda WR-V i-VTEC S,2017,59,17.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.7,5.48
+Mahindra,Mahindra XUV500 W11 AT,2018,29,15.1,7.0,Diesel,Automatic,200.0,350.0,70.0,152.87,15.13
+Hyundai,Hyundai i20 Asta 1.4 CRDI,2013,54,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,4.32
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2021,7,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,4.99
+Kia,Kia Seltos HTX G,2019,39,16.8,5.0,Petrol,Manual,170.0,433.0,50.0,113.4,12.62
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2020,7,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,4.85
+Tata,Tata Nexon XZ Plus Dual Tone Roof Diesel,2018,35,21.5,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,8.96
+MG,MG Motors Gloster Sharp 2.0 Twin Turbo 7 STR 4WD,2020,30,19.365,5.0,Diesel,Automatic,170.0,350.0,43.0,88.51,34.48
+Kia,Kia Sonet HTX 1.0 iMT,2020,18,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,10.22
+Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX,2013,98,21.9,5.0,Diesel,Manual,170.0,465.0,43.0,126.0,5.26
+Skoda,Skoda Superb Elegance 1.8 TSI AT,2015,57,13.1,5.0,Petrol,Automatic,159.0,565.0,60.0,158.0,10.33
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2012,60,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.36
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2022,9,19.365,5.0,Petrol,Manual,170.0,350.0,43.0,88.51,5.48
+Hyundai,Hyundai Elite i20 Asta 1.2,2017,61,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.33
+Hyundai,Hyundai Santa Fe 2 WD AT,2016,94,19.365,7.0,Diesel,Automatic,170.0,350.0,64.0,88.51,12.69
+Mahindra,Mahindra XUV500 W10,2018,87,16.0,7.0,Diesel,Manual,200.0,350.0,70.0,140.0,13.57
+Toyota,Toyota Corolla Altis G Diesel,2014,96,21.3,5.0,Diesel,Manual,175.0,470.0,55.0,87.0,8.12
+Renault,Renault Kwid 1.0 RXT Opt,2021,9,22.0,5.0,Petrol,Manual,180.0,279.0,28.0,67.0,4.55
+Hyundai,Hyundai Xcent SX Petrol,2018,33,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,6.3
+Hyundai,Hyundai Elite i20 Asta 1.2,2015,39,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.94
+Honda,Honda City 1.5 V MT,2012,39,16.8,5.0,Petrol,Manual,170.0,350.0,42.0,88.51,4.72
+Renault,Renault Duster 85 PS RxL (Opt),2014,72,20.45,5.0,Diesel,Manual,205.0,475.0,50.0,84.0,6.31
+Tata,Tata Nexon XM S Petrol,2021,14,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,8.83
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2013,56,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,2.41
+Tata,Tata Harrier XZ Plus,2020,17,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,167.67,18.01
+Renault,Renault Kwid RXL,2018,35,25.17,5.0,Petrol,Manual,180.0,300.0,28.0,53.3,3.38
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2016,92,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,8.95
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2012,39,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.14
+Maruti Suzuki,Maruti Suzuki Wagon R 1.2 ZXI,2022,10,20.52,5.0,Petrol,Manual,170.0,341.0,32.0,88.0,5.85
+Volkswagen,Volkswagen Polo Highline1.2L (P),2017,41,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,6.01
+Hyundai,Hyundai Creta 1.6 SX Plus,2016,62,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.78
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.6,2015,78,22.07,5.0,Diesel,Manual,180.0,353.0,48.0,118.0,6.84
+Skoda,Skoda Rapid New Style TDI AT,2017,77,21.14,5.0,Diesel,Automatic,163.0,460.0,55.0,103.0,9.26
+Ford,Ford Figo Aspire Titanium 1.2 Ti-VCT,2020,28,18.5,5.0,Petrol,Manual,174.0,359.0,42.0,88.51,6.61
+Hyundai,Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG,2019,22,19.77,5.0,Petrol+cng,Manual,165.0,350.0,43.0,81.0,5.83
+Honda,Honda WR-V i-VTEC VX,2020,28,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.51,8.4
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2011,24,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,2.89
+Tata,Tata Harrier XZ,2019,62,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,14.56
+Renault,Renault Duster RXZ Petrol,2020,60,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,8.38
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.3 Diesel,2018,67,28.09,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,8.65
+Honda,Honda City VX,2019,23,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,9.68
+Mahindra,Mahindra XUV500 W9 AT,2018,67,15.1,7.0,Diesel,Automatic,200.0,350.0,70.0,88.51,11.69
+Honda,Honda City V,2014,62,17.8,5.0,Petrol,Manual,165.0,510.0,40.0,117.3,5.24
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2019,30,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,89.0,9.71
+Chevrolet,Chevrolet Sail U-VA 1.2 LS,2014,42,18.2,5.0,Petrol,Manual,170.0,350.0,42.0,88.51,2.35
+Toyota,Toyota Corolla Altis VL AT Petrol,2014,69,16.7,5.0,Petrol,Automatic,175.0,470.0,55.0,38.0,8.3
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZDI,2015,114,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,4.99
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2015,51,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.1
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2021,28,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.79
+Mahindra,Mahindra XUV 300 W6 Diesel,2019,81,19.365,5.0,Diesel,Manual,180.0,259.0,42.0,88.51,7.54
+Honda,Honda Mobilio S Petrol,2014,71,17.3,7.0,Petrol,Manual,189.0,350.0,42.0,118.0,4.9
+Honda,Honda Brio S MT,2015,94,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,3.33
+Chevrolet,Chevrolet Beat LS Petrol,2015,60,18.6,5.0,Petrol,Manual,165.0,170.0,35.0,79.0,2.43
+Toyota,Toyota Etios Liva G,2015,42,17.71,5.0,Petrol,Manual,170.0,251.0,45.0,80.0,3.81
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo,2020,81,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,8.29
+Ford,Ford EcoSport SE 1.5L TDCi,2021,75,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,9.27
+Maruti Suzuki,Maruti Suzuki Baleno Zeta AT Petrol,2020,55,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.03
+Maruti Suzuki,Maruti Suzuki New Ertiga ZDI +,2019,69,25.47,7.0,Diesel,Manual,170.0,209.0,45.0,88.5,11.58
+Maruti Suzuki,Maruti Suzuki Dzire ZXI,2018,74,23.26,5.0,Petrol,Manual,163.0,378.0,37.0,88.5,5.89
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2021,29,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.81
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.5 Diesel,2019,54,26.82,5.0,Diesel,Manual,170.0,510.0,43.0,94.0,9.17
+Honda,Honda Amaze 1.2 VX i-VTEC,2015,59,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.9,4.0
+Mahindra,Mahindra XUV 300 W8 AMT (O) Diesel,2020,46,20.0,5.0,Diesel,Automatic,180.0,350.0,42.0,115.0,11.21
+Honda,Honda Amaze 1.5 S (O),2017,87,19.365,5.0,Diesel,Manual,170.0,350.0,35.0,88.51,4.61
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2020,51,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.65
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Diesel,2016,72,27.39,5.0,Diesel,Manual,170.0,339.0,37.0,74.0,6.1
+Honda,Honda City V,2016,105,17.8,5.0,Petrol,Manual,165.0,510.0,40.0,117.3,5.74
+Honda,Honda City SV,2022,4,19.365,5.0,Petrol,Manual,165.0,510.0,40.0,88.51,9.85
+Honda,Honda City ZX CVT,2022,17,18.4,5.0,Petrol,Automatic,170.0,506.0,40.0,119.35,13.83
+Renault,Renault Duster RXS CVT Petrol,2017,37,15.0,5.0,Petrol,Automatic,205.0,475.0,50.0,88.51,6.62
+Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi (O),2017,62,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,7.43
+Maruti Suzuki,Maruti Suzuki Celerio VXI,2021,7,21.63,5.0,Petrol,Manual,165.0,235.0,35.0,67.04,5.09
+Hyundai,Hyundai New i20 Asta 1.0 Turbo IMT,2021,17,20.2,5.0,Petrol,Manual,170.0,311.0,37.0,118.0,8.38
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.3,2017,83,23.65,5.0,Diesel,Manual,180.0,353.0,48.0,89.0,6.65
+Hyundai,Hyundai New Santro 1.1 Sportz Petrol + CNG (outside fitted),2019,37,20.3,5.0,Petrol+cng,Manual,165.0,235.0,35.0,68.07,5.23
+Honda,Honda Mobilio S Petrol,2014,55,17.3,7.0,Petrol,Manual,189.0,350.0,42.0,118.0,5.38
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2015,67,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,8.55
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.5,2021,10,18.55,5.0,Petrol,Manual,170.0,375.0,48.0,103.25,9.32
+Renault,Renault Duster RXZ Petrol,2021,12,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,9.02
+Maruti Suzuki,Maruti Suzuki Celerio VXI,2018,94,23.1,5.0,Petrol,Manual,165.0,235.0,35.0,67.04,3.76
+Hyundai,Hyundai Elite i20 Asta 1.2,2015,51,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.49
+Tata,Tata Tigor Revotron XZA Plus,2019,16,20.3,5.0,Petrol,Automatic,170.0,419.0,35.0,84.48,7.05
+Hyundai,Hyundai Elite i20 Asta CVT,2018,10,19.8,5.0,Petrol,Automatic,170.0,285.0,40.0,82.0,7.87
+Renault,Renault Triber RXT AMT,2021,16,19.365,7.0,Petrol,Automatic,182.0,84.0,40.0,88.51,7.08
+Tata,Tata Safari XZ Plus 6 STR,2021,16,16.14,6.0,Diesel,Manual,205.0,73.0,50.0,167.67,18.89
+Tata,Tata Punch Creative AMT Dual Tone,2022,20,18.9,5.0,Petrol,Automatic,187.0,366.0,37.0,84.0,8.9
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,20,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,10.7
+Mahindra,Mahindra Thar LX 4 STR Hard Top Petrol MT,2021,24,19.365,4.0,Petrol,Manual,226.0,350.0,57.0,150.0,14.36
+Renault,Renault Duster 85 PS RXS MT,2019,40,19.365,5.0,Diesel,Manual,205.0,475.0,50.0,88.51,8.16
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2021,12,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.18
+Honda,Honda Jazz V CVT,2022,8,17.01,5.0,Petrol,Automatic,165.0,354.0,40.0,88.51,8.45
+Nissan,Nissan Magnite XL,2021,19,18.75,5.0,Petrol,Manual,205.0,336.0,40.0,88.51,6.38
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2013,11,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,2.49
+Nissan,Nissan Magnite XV Premium Turbo (O),2022,5,20.0,5.0,Petrol,Manual,205.0,336.0,40.0,99.0,9.49
+Jeep,Jeep Compass Limited 2.0 Diesel 4x4,2017,51,16.3,5.0,Diesel,Manual,178.0,408.0,60.0,170.0,14.62
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo,2019,23,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.75
+Hyundai,Hyundai Verna 1.6 CRDI SX,2018,88,24.75,5.0,Diesel,Manual,165.0,480.0,43.0,121.0,8.82
+Hyundai,Hyundai i20 Active 1.2 SX,2016,89,17.19,5.0,Petrol,Manual,190.0,285.0,45.0,82.0,5.94
+Jeep,Jeep Compass Limited (O) 2.0 Diesel,2017,45,17.1,5.0,Diesel,Manual,178.0,408.0,60.0,170.63,14.24
+Tata,Tata Harrier XZ,2019,93,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,13.02
+Hyundai,Hyundai Venue SX 1.0 Turbo,2021,26,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.88
+Hyundai,Hyundai i20 Asta 1.4 CRDI,2012,78,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,4.25
+Maruti Suzuki,Maruti Suzuki Dzire VDi AMT,2017,64,28.4,5.0,Diesel,Automatic,170.0,378.0,37.0,74.0,6.79
+Hyundai,Hyundai i20 Active 1.2 S,2017,33,17.19,5.0,Petrol,Manual,190.0,350.0,45.0,82.0,6.64
+Ford,Ford EcoSport Ambiente 1.5L TDCi,2019,80,23.0,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,7.4
+Volkswagen,Volkswagen Ameo Highline1.2L (P),2017,33,17.0,5.0,Petrol,Manual,163.0,330.0,45.0,73.75,5.83
+Maruti Suzuki,Maruti Suzuki Swift VDi ABS,2016,95,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,5.19
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2021,12,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,9.97
+Volkswagen,Volkswagen Ameo Comfortline Plus 1.2L (P),2017,58,19.365,5.0,Petrol,Manual,163.0,350.0,45.0,88.51,5.03
+Hyundai,Hyundai Elite i20 Magna Executive 1.2,2018,19,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.17
+Kia,Kia Seltos GTX Plus DCT,2020,51,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,15.57
+Renault,Renault Scala RxZ Diesel,2016,67,21.64,5.0,Diesel,Manual,161.0,490.0,41.0,85.0,7.08
+Renault,Renault Duster RXS Petrol,2021,13,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,104.55,8.73
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Diesel,2019,92,19.365,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,9.06
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2018,54,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.64
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2019,29,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.89
+MG,MG Motors Hector Smart 1.5 Petrol Turbo DCT,2020,22,13.96,5.0,Petrol,Automatic,192.0,587.0,60.0,141.0,16.12
+Tata,Tata Harrier XT,2019,36,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,167.67,15.08
+Kia,Kia Seltos HTX Plus D,2019,49,20.8,5.0,Diesel,Manual,170.0,433.0,50.0,88.51,14.53
+Kia,Kia Seltos HTX D,2020,31,20.8,5.0,Diesel,Manual,190.0,433.0,50.0,113.4,13.38
+Hyundai,Hyundai i10 Sportz Petrol,2014,30,20.36,5.0,Petrol,Manual,165.0,225.0,35.0,68.0,2.39
+Skoda,Skoda Rapid New Ambition TDI,2018,55,21.14,5.0,Diesel,Manual,163.0,460.0,55.0,103.0,6.6
+Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,31,24.75,5.0,Diesel,Manual,165.0,465.0,43.0,126.0,8.76
+Volkswagen,Volkswagen Vento Trendline Petrol,2011,73,15.04,5.0,Petrol,Manual,168.0,480.0,55.0,103.0,2.68
+Hyundai,Hyundai i20 Magna (O) 1.2,2014,31,18.15,5.0,Petrol,Manual,165.0,295.0,45.0,83.0,4.24
+Honda,Honda City ZX CVT,2017,31,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,117.6,7.9
+Mahindra,Mahindra XUV 300 W8 (O) Petrol,2020,27,17.0,5.0,Petrol,Manual,180.0,259.0,42.0,108.6,9.78
+Toyota,Toyota Innova Crysta 2.4 V 7 STR,2018,40,13.68,7.0,Diesel,Manual,176.0,300.0,55.0,147.8,17.26
+Tata,Tata Tigor Revotorq XM,2018,118,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,3.9
+Mahindra,Mahindra XUV500 W8,2012,76,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,140.0,5.68
+Kia,Kia Carens Prestige Plus 1.5 Diesel 7 STR,2022,33,19.365,7.0,Diesel,Manual,170.0,350.0,43.0,88.51,13.12
+Ford,Ford Figo Duratorq Diesel EXI 1.4,2012,79,14.7,5.0,Diesel,Manual,168.0,284.0,45.0,69.0,1.87
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.6,2015,108,22.07,5.0,Diesel,Manual,180.0,353.0,48.0,118.0,5.53
+Maruti Suzuki,Maruti Suzuki Swift LXI,2020,49,18.6,5.0,Petrol,Manual,170.0,268.0,42.0,85.8,4.99
+Hyundai,Hyundai Aura SX 1.2 (O) Petrol,2020,15,20.5,5.0,Petrol,Manual,165.0,402.0,37.0,88.51,6.52
+Maruti Suzuki,Maruti Suzuki Ertiga ZDi,2012,77,20.77,7.0,Diesel,Manual,185.0,350.0,45.0,89.0,4.0
+Hyundai,Hyundai Elite i20 Sportz 1.2,2017,76,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.46
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2019,39,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.8
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2019,36,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.23
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDI,2012,85,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,3.46
+Hyundai,Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG (outside fitted),2016,97,18.9,5.0,Petrol+cng,Manual,165.0,350.0,43.0,81.0,3.11
+Toyota,Toyota Yaris V,2018,58,17.8,5.0,Petrol,Manual,165.0,476.0,42.0,88.51,6.21
+Maruti Suzuki,Maruti Suzuki Ertiga VDI ABS ANNIVERSARY EDITION,2014,97,20.77,7.0,Diesel,Manual,185.0,135.0,45.0,88.76,4.83
+Hyundai,Hyundai Eon Era +,2014,91,21.1,5.0,Petrol,Manual,170.0,215.0,32.0,55.2,2.14
+Mahindra,Mahindra KUV100 NXT K8 6 STR,2018,51,18.15,6.0,Petrol,Manual,170.0,243.0,35.0,82.0,4.36
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDI,2013,75,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,3.14
+Mahindra,Mahindra XUV500 W11,2020,81,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,152.87,14.82
+Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi,2019,45,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,7.1
+Renault,Renault Kwid RXL,2020,20,20.71,5.0,Petrol,Manual,184.0,279.0,28.0,53.0,3.42
+Mahindra,Mahindra Marazzo M8,2018,69,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,88.51,8.98
+Chevrolet,Chevrolet Cruze LTZ AT,2017,95,14.81,5.0,Diesel,Automatic,165.0,350.0,60.0,164.0,6.89
+Mahindra,Mahindra XUV500 W10,2018,28,16.0,7.0,Diesel,Manual,200.0,350.0,70.0,140.0,10.93
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2016,78,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,4.61
+Ford,Ford EcoSport Signature Edition Diesel,2019,47,23.0,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,8.59
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2020,41,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.58
+Toyota,Toyota Yaris G,2018,19,17.18,5.0,Petrol,Manual,165.0,476.0,42.0,88.51,6.91
+Hyundai,Hyundai Creta SX Turbo DCT Petrol,2020,35,19.365,5.0,Petrol,Automatic,190.0,433.0,50.0,88.51,15.61
+Hyundai,Hyundai i20 Magna (O) 1.4 CRDI,2014,98,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,3.93
+Toyota,Toyota Etios Liva G,2015,92,17.71,5.0,Petrol,Manual,170.0,251.0,45.0,80.0,4.11
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2021,39,32.5,5.0,Petrol+cng,Manual,165.0,341.0,60.0,88.51,5.09
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2019,37,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.34
+Mahindra,Mahindra Marazzo M8,2018,18,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,88.51,9.29
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2019,38,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.69
+Renault,Renault Duster 110 PS RXZ 4X2 AMT,2016,100,19.6,5.0,Diesel,Automatic,205.0,475.0,50.0,108.45,7.14
+Volkswagen,Volkswagen Polo Highline Plus 1.2L (P),2018,108,16.2,5.0,Petrol,Manual,165.0,350.0,45.0,74.0,6.49
+Maruti Suzuki,Maruti Suzuki Ignis Alpha MT Petrol,2017,50,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,81.8,5.74
+Kia,Kia Seltos GTX,2019,27,16.1,5.0,Petrol,Manual,190.0,433.0,50.0,138.0,13.39
+Maruti Suzuki,Maruti Suzuki Swift VDi,2018,98,25.2,5.0,Diesel,Manual,170.0,350.0,42.0,74.0,5.65
+Hyundai,Hyundai New i20 Asta 1.0 Turbo IMT,2020,18,20.2,5.0,Petrol,Manual,170.0,311.0,37.0,118.0,8.49
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2017,84,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,8.36
+Tata,Tata Nexon XMA AMT Diesel S,2021,32,22.0,5.0,Diesel,Automatic,209.0,350.0,44.0,88.51,10.15
+Renault,Renault Triber RXZ Dual Tone,2021,16,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,7.24
+Honda,Honda City V 4th Gen,2018,35,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,8.36
+MG,MG Motors Hector 1.5 Sharp DCT AT,2020,34,13.96,5.0,Petrol,Automatic,170.0,587.0,60.0,141.0,16.08
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2021,18,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.31
+Renault,Renault Triber RXZ,2021,39,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,6.93
+Tata,Tata Safari XZA Plus 6S,2021,32,14.08,7.0,Diesel,Automatic,205.0,73.0,50.0,167.67,21.2
+Tata,Tata Hexa XTA,2017,50,19.365,7.0,Diesel,Automatic,200.0,128.0,60.0,88.51,13.98
+Hyundai,Hyundai Xcent S Petrol,2019,46,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,5.74
+Renault,Renault Triber RXZ,2020,29,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,6.12
+Skoda,Skoda Kushaq Ambition 1.0L TSI MT,2022,15,19.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,12.13
+Kia,Kia Sonet GTX Plus 1.0 DCT,2020,46,18.0,5.0,Petrol,Automatic,205.0,392.0,45.0,118.0,11.17
+Hyundai,Hyundai New i20 Asta 1.0 Turbo IMT,2020,20,20.2,5.0,Petrol,Manual,170.0,311.0,37.0,118.0,8.67
+Renault,Renault Duster 110 PS RxZ 4x2 MT,2014,99,19.01,5.0,Diesel,Manual,205.0,475.0,50.0,108.45,5.61
+Volkswagen,Volkswagen Polo All Star 1.5 (D),2017,92,20.18,5.0,Diesel,Manual,165.0,295.0,45.0,88.0,6.47
+Honda,Honda Jazz VX Diesel,2019,55,27.3,5.0,Diesel,Manual,165.0,350.0,40.0,98.6,8.21
+Datsun,Datsun GO T (O),2020,10,19.02,5.0,Petrol,Manual,185.0,222.0,28.0,67.0,4.72
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus,2021,14,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,8.24
+Toyota,Toyota Urban Cruiser Premium Grade AT,2020,42,18.76,5.0,Petrol,Automatic,198.0,328.0,48.0,103.26,10.81
+Renault,Renault Triber RXZ AMT,2021,15,18.2,7.0,Petrol,Automatic,182.0,84.0,40.0,72.0,7.5
+Hyundai,Hyundai Grand i10 Nios Sportz 1.0 Turbo GDI,2020,35,20.7,5.0,Petrol,Manual,170.0,260.0,37.0,88.51,6.83
+Renault,Renault Duster RXZ Turbo Petrol,2020,26,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,154.0,9.43
+Nissan,Nissan Terrano XL D Plus,2018,59,20.5,5.0,Diesel,Manual,205.0,350.0,50.0,84.0,8.53
+Hyundai,Hyundai New i20 Sportz 1.2 IVT,2021,11,21.0,5.0,Petrol,Automatic,170.0,311.0,37.0,82.0,8.77
+Maruti Suzuki,Maruti Suzuki XL6 Alpha AT Petrol,2019,66,17.99,6.0,Petrol,Automatic,170.0,209.0,45.0,103.2,11.75
+Hyundai,Hyundai New i20 Asta (O) 1.5 MT,2022,22,25.2,5.0,Diesel,Manual,170.0,311.0,37.0,99.0,10.82
+Renault,Renault Duster RXZ Petrol,2021,27,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,9.24
+Maruti Suzuki,Maruti Suzuki Brezza ZXI,2022,14,20.01,5.0,Petrol,Manual,170.0,328.0,48.0,102.0,10.92
+Mahindra,Mahindra XUV 300 W6 AMT Diesel,2020,39,20.0,5.0,Diesel,Automatic,180.0,259.0,42.0,115.0,11.05
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2017,67,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,9.01
+Maruti Suzuki,Maruti Suzuki Eeco STD 5 STR,2022,21,15.1,5.0,Petrol,Manual,160.0,350.0,40.0,73.0,4.95
+Maruti Suzuki,Maruti Suzuki Swift ZXI AMT,2020,65,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,6.79
+Maruti Suzuki,Maruti Suzuki Dzire ZXI AMT,2018,39,23.26,5.0,Petrol,Automatic,163.0,378.0,37.0,88.5,6.51
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2019,21,24.07,5.0,Petrol,Manual,160.0,177.0,35.0,67.0,3.84
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2019,21,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.48
+Maruti Suzuki,Maruti Suzuki S-Presso VXI,2020,40,21.7,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,4.01
+Honda,Honda WR-V i-VTEC SV,2021,7,17.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.7,7.99
+Maruti Suzuki,Maruti Suzuki Swift VDi,2016,90,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,5.3
+Hyundai,Hyundai Creta 1.6 SX AT VTVT,2019,22,15.8,5.0,Petrol,Automatic,190.0,400.0,55.0,121.0,11.99
+Volkswagen,Volkswagen Polo Comfortline 1.2L (P),2014,60,16.2,5.0,Petrol,Manual,165.0,350.0,45.0,74.0,4.36
+Maruti Suzuki,Maruti Suzuki S-Presso VXI (O),2022,6,21.7,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,4.55
+Honda,Honda Amaze 1.2 S i-VTEC,2018,36,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,5.89
+Hyundai,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,2022,24,18.5,5.0,Petrol+cng,Manual,170.0,260.0,60.0,68.0,7.76
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,68,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,8.56
+Honda,Honda WR-V i-VTEC SV,2020,24,17.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.7,7.6
+Hyundai,Hyundai Verna 1.6 CRDI SX,2019,45,24.75,5.0,Diesel,Manual,165.0,480.0,43.0,121.0,10.14
+Kia,Kia Sonet HTK Plus 1.5,2020,26,24.1,5.0,Diesel,Manual,205.0,392.0,45.0,98.6,10.14
+Honda,Honda City V 5th Gen,2020,19,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,10.11
+Kia,Kia Seltos GTX Plus DCT,2020,23,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,15.09
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2022,10,32.53,5.0,Petrol+cng,Manual,165.0,341.0,60.0,58.33,6.34
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2014,27,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.36
+Renault,Renault Kiger RXT Turbo CVT,2021,25,20.53,5.0,Petrol,Automatic,205.0,405.0,40.0,99.0,8.05
+Tata,Tata Nexon XZ Plus Diesel,2018,52,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,8.1
+Maruti Suzuki,Maruti Suzuki Wagon R Stingray VXI,2015,20,19.365,5.0,Petrol,Manual,165.0,350.0,35.0,88.51,3.86
+Hyundai,Hyundai i10 Sportz 1.2 Petrol,2013,72,20.36,5.0,Petrol,Manual,165.0,350.0,35.0,78.9,3.2
+Tata,Tata Hexa XE,2018,31,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,9.5
+Mahindra,Mahindra Thar LX 4 STR Convertible Diesel AT,2021,19,15.0,4.0,Diesel,Automatic,226.0,350.0,57.0,130.0,15.52
+Hyundai,Hyundai Grand i10 Nios Sportz 1.0 Turbo GDI,2021,15,20.7,5.0,Petrol,Manual,170.0,260.0,37.0,88.51,7.4
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2020,21,21.79,5.0,Petrol,Manual,170.0,341.0,32.0,67.0,5.12
+Kia,Kia Seltos GTX Plus,2020,41,16.1,5.0,Petrol,Manual,170.0,433.0,50.0,138.0,14.58
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2019,28,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.82
+Tata,Tata Hexa XE,2018,63,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,9.13
+Tata,Tata Nexon XZ Plus Diesel,2018,96,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,7.85
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2021,24,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.3
+Honda,Honda Amaze 1.2 S i-VTEC,2021,17,18.6,5.0,Petrol,Manual,170.0,420.0,35.0,88.76,6.74
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2016,102,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,7.45
+Honda,Honda City V 5th Gen,2021,10,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,10.45
+Hyundai,Hyundai Creta 1.6 SX Plus,2018,39,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,12.16
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2017,38,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,4.12
+Hyundai,Hyundai Elite i20 Sportz 1.2,2018,41,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.45
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.5 Diesel,2019,60,26.82,5.0,Diesel,Manual,170.0,510.0,43.0,94.0,8.38
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha AT Petrol,2021,14,20.0,5.0,Petrol,Automatic,170.0,510.0,43.0,103.25,11.03
+Hyundai,Hyundai Creta 1.6 SX,2017,116,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.97
+Ford,Ford Figo Aspire Titanium 1.2 Ti-VCT,2017,23,18.5,5.0,Petrol,Manual,174.0,359.0,42.0,94.93,4.75
+Datsun,Datsun Redi-GO T (O),2016,29,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.17
+Renault,Renault Kwid RXL,2021,9,20.71,5.0,Petrol,Manual,184.0,279.0,28.0,53.0,3.94
+Nissan,Nissan Micra Active XL (O),2018,47,19.365,5.0,Petrol,Manual,154.0,251.0,41.0,88.51,4.13
+Tata,Tata Punch Creative Dual Tone,2021,19,18.9,5.0,Petrol,Manual,187.0,366.0,37.0,84.0,7.61
+Ford,Ford Figo Aspire Titanium Plus 1.2 Ti-VCT,2021,7,18.5,5.0,Petrol,Manual,174.0,359.0,42.0,94.93,6.61
+Hyundai,Hyundai Fluidic Verna 4S 1.6 VTVT SX,2016,22,17.4,5.0,Petrol,Manual,165.0,465.0,43.0,121.0,6.52
+Hyundai,Hyundai New Santro 1.1 Asta MT,2020,18,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.87
+Renault,Renault Duster RXZ Petrol,2021,18,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,9.02
+Datsun,Datsun Redi-GO S,2018,28,19.365,5.0,Petrol,Manual,170.0,222.0,28.0,88.51,2.6
+Tata,Tata Tiago Revotron XM,2019,28,19.365,5.0,Petrol,Manual,165.0,242.0,35.0,88.51,4.37
+Nissan,Nissan Magnite XL Turbo,2021,25,20.0,5.0,Petrol,Manual,205.0,336.0,40.0,99.0,6.89
+Hyundai,Hyundai New Santro 1.1 Asta MT,2018,38,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.5
+Renault,Renault Triber RXL,2020,10,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,5.43
+Hyundai,Hyundai Venue SX 1.0 Turbo iMT,2021,22,18.0,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.81
+Maruti Suzuki,Maruti Suzuki Dzire VXI,2021,12,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,7.24
+Honda,Honda Jazz VX CVT,2021,14,17.1,5.0,Petrol,Automatic,165.0,354.0,40.0,88.5111,8.95
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,25,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,10.5
+Hyundai,Hyundai Venue SX 1.0 Turbo,2019,12,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,8.58
+Tata,Tata Punch Accomplished MT,2022,7,18.9,5.0,Petrol,Manual,187.0,366.0,37.0,84.0,7.4
+Tata,Tata Safari XZA Plus,2021,8,19.365,7.0,Diesel,Automatic,170.0,350.0,50.0,167.67,23.6
+Tata,Tata Safari XZA Plus,2021,21,19.365,7.0,Diesel,Automatic,170.0,350.0,50.0,167.67,21.51
+Honda,Honda WR-V i-VTEC VX,2021,23,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.51,8.99
+Tata,Tata Altroz XZ 1.2,2020,19,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,6.79
+Datsun,Datsun Redi-GO S 1.0,2017,35,22.5,5.0,Petrol,Manual,185.0,222.0,28.0,67.0,3.19
+Hyundai,Hyundai Creta 1.6 SX VTVT,2019,29,15.29,5.0,Petrol,Manual,190.0,400.0,55.0,122.0,11.29
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2011,46,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.06
+Datsun,Datsun Redi-GO T (O),2017,12,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.45
+Hyundai,Hyundai Elite i20 Asta 1.2,2014,89,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.05
+Tata,Tata Nexon XM Petrol,2020,17,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,7.61
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2014,60,20.5,5.0,Petrol+cng,Manual,165.0,350.0,35.0,58.0,4.21
+Renault,Renault Kwid RXL,2020,19,20.71,5.0,Petrol,Manual,184.0,279.0,28.0,53.0,3.7
+Datsun,Datsun Redi-GO A,2019,38,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.76
+Renault,Renault Duster RXZ Petrol,2021,17,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,9.47
+Hyundai,Hyundai Verna SX Petrol,2020,12,17.7,5.0,Petrol,Manual,170.0,480.0,45.0,113.42,9.95
+Hyundai,Hyundai Verna SX Petrol,2021,36,17.7,5.0,Petrol,Manual,170.0,480.0,45.0,113.42,9.43
+Renault,Renault Duster RXZ Petrol,2021,15,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,9.43
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZXI,2015,18,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,5.79
+Datsun,Datsun GO T (O),2017,16,20.63,5.0,Petrol,Manual,170.0,350.0,35.0,88.51,3.54
+Mahindra,Mahindra XUV 300 W8 Petrol,2020,25,17.01,5.0,Petrol,Manual,180.0,259.0,42.0,108.6,9.29
+Ford,Ford EcoSport Ambiente 1.5L TDCi,2021,25,23.0,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,8.03
+Hyundai,Hyundai Eon Magna +,2017,29,20.03,5.0,Petrol,Manual,170.0,215.0,32.0,68.05,3.34
+Kia,Kia Seltos GTX Plus,2020,40,16.1,5.0,Petrol,Manual,170.0,433.0,50.0,138.0,13.98
+Volkswagen,Volkswagen Polo Highline1.2L (P),2013,71,16.47,5.0,Petrol,Manual,168.0,350.0,45.0,73.9,4.31
+Maruti Suzuki,Maruti Suzuki Baleno Zeta AT Petrol,2021,11,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,8.27
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS AT,2019,56,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,89.0,8.69
+Honda,Honda City ZX CVT,2019,32,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,117.6,10.5
+Volkswagen,Volkswagen Polo Highline1.2L (P),2016,39,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,5.79
+Kia,Kia Seltos GTX,2019,35,16.1,5.0,Petrol,Manual,190.0,433.0,50.0,138.0,13.76
+Maruti Suzuki,Maruti Suzuki Swift ZXI AMT,2018,30,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,6.64
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2018,52,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.12
+Hyundai,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,2020,28,18.5,5.0,Petrol+cng,Manual,170.0,260.0,60.0,68.0,6.97
+Hyundai,Hyundai Eon Magna +,2017,34,20.03,5.0,Petrol,Manual,170.0,215.0,32.0,68.05,3.08
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2019,11,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.1
+Maruti Suzuki,Maruti Suzuki Swift VXI,2020,17,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,5.94
+Kia,Kia Seltos HTK Plus G,2021,7,16.8,5.0,Petrol,Manual,190.0,433.0,50.0,88.51,12.29
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus AMT,2020,13,23.26,5.0,Petrol,Automatic,170.0,378.0,37.0,88.5,7.6
+Tata,Tata Nexon XM S Petrol,2020,14,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,8.03
+Tata,Tata Nexon XMA AMT Diesel S,2021,18,22.0,5.0,Diesel,Automatic,209.0,350.0,44.0,88.51,10.58
+Hyundai,Hyundai Creta 1.6 SX,2018,45,19.365,5.0,Diesel,Manual,170.0,400.0,55.0,126.0,10.99
+Toyota,Toyota Innova Crysta 2.7 V,2020,54,19.365,7.0,Petrol,Manual,170.0,350.0,65.0,88.51,16.99
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2019,25,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.58
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2019,26,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.62
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2020,12,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.95
+Tata,Tata Safari XZA Plus 6S,2021,28,14.08,7.0,Diesel,Automatic,205.0,73.0,50.0,167.67,19.9
+Hyundai,Hyundai i20 Active 1.2 S,2015,57,17.19,5.0,Petrol,Manual,190.0,350.0,45.0,82.0,4.99
+Honda,Honda Jazz V,2016,31,16.6,5.0,Petrol,Manual,165.0,354.0,40.0,88.51,4.91
+MG,MG Motors Hector 1.5 Sharp DCT AT,2021,23,13.96,5.0,Petrol,Automatic,170.0,587.0,60.0,141.0,19.28
+Maruti Suzuki,Maruti Suzuki Swift ZDI AMT,2018,62,25.2,5.0,Diesel,Automatic,163.0,268.0,42.0,74.0,7.31
+Maruti Suzuki,Maruti Suzuki Ritz ZXI,2014,48,18.5,5.0,Petrol,Manual,170.0,236.0,43.0,85.0,4.29
+Hyundai,Hyundai i10 Sportz AT Petrol,2013,23,16.95,5.0,Petrol,Automatic,165.0,350.0,35.0,78.9,3.99
+Hyundai,Hyundai Grand i10 Magna 1.1 CRDi,2014,73,18.9,5.0,Diesel,Manual,165.0,350.0,43.0,70.0,3.95
+Hyundai,Hyundai Creta 1.6 SX Plus Auto Petrol,2017,54,15.29,5.0,Petrol,Automatic,190.0,400.0,60.0,122.0,11.76
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZDI AMT,2016,28,23.4,5.0,Diesel,Automatic,170.0,320.0,42.0,74.0,7.62
+Skoda,Skoda Rapid Ambition 1.6 MPI MT,2012,81,19.365,5.0,Petrol,Manual,168.0,350.0,55.0,105.0,4.44
+Hyundai,Hyundai i10 Sportz 1.2 Petrol,2011,53,20.36,5.0,Petrol,Manual,165.0,350.0,35.0,78.9,3.21
+Tata,Tata Harrier XZ,2019,35,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,16.67
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2017,46,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,12.13
+Honda,Honda Amaze 1.5 VX i-DTEC,2020,30,27.4,5.0,Diesel,Manual,170.0,420.0,35.0,99.0,8.69
+Volkswagen,Volkswagen Polo Highline1.2L (P),2015,54,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,5.19
+Honda,Honda Brio S(O)MT,2018,47,19.365,5.0,Petrol,Manual,165.0,175.0,35.0,88.51,4.68
+Kia,Kia Sonet HTX 1.5,2020,29,24.1,5.0,Diesel,Manual,205.0,392.0,45.0,88.51,11.66
+Skoda,Skoda Kushaq Style 1.5L TSI MT,2021,24,17.2,5.0,Petrol,Manual,188.0,385.0,50.0,114.0,16.71
+Skoda,Skoda Kushaq Style 1.0L TSI AT (6 Airbags),2022,21,17.2,5.0,Petrol,Automatic,188.0,385.0,50.0,114.0,17.49
+Hyundai,Hyundai Alcazar Platinum (O) 6 STR 2.0 Petrol AT,2021,31,14.2,6.0,Petrol,Automatic,200.0,180.0,50.0,156.82,19.99
+Nissan,Nissan Kicks XV Premium Diesel,2019,50,19.365,5.0,Diesel,Manual,210.0,400.0,50.0,108.5,10.0
+Mahindra,Mahindra Marazzo M4 8str,2018,48,17.3,8.0,Diesel,Manual,200.0,190.0,45.0,121.0,8.99
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.5 Diesel,2019,40,26.82,5.0,Diesel,Manual,170.0,510.0,43.0,94.0,10.75
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.6,2016,79,22.07,5.0,Diesel,Manual,180.0,353.0,48.0,118.0,8.16
+Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi (O),2018,39,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,8.7
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2017,43,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,4.44
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus AMT,2017,47,24.12,5.0,Petrol,Automatic,170.0,378.0,37.0,88.5,6.88
+Honda,Honda City ZX CVT,2021,8,18.4,5.0,Petrol,Automatic,170.0,506.0,40.0,119.35,14.28
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.5,2020,19,18.55,5.0,Petrol,Manual,180.0,375.0,48.0,88.51,9.4
+Renault,Renault Kiger RXZ 1.0 Turbo MT Dual Tone,2022,6,20.53,5.0,Petrol,Manual,205.0,405.0,40.0,99.0,8.9
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2014,35,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,3.01
+Renault,Renault Fluence Diesel E2,2013,98,20.4,5.0,Diesel,Manual,168.0,350.0,67.0,108.0,4.32
+Volkswagen,Volkswagen Taigun GT 1.5 TSI MT,2021,7,18.4,5.0,Petrol,Manual,188.0,50.0,50.0,148.0,14.96
+Volkswagen,Volkswagen Polo Highline Plus 1.5 (D),2018,34,20.14,5.0,Diesel,Manual,165.0,280.0,45.0,88.0,7.75
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS AT Dual Tone,2018,75,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,89.0,9.13
+Maruti Suzuki,Maruti Suzuki Ertiga VDI,2016,96,24.52,7.0,Diesel,Manual,185.0,135.0,45.0,89.0,7.96
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2016,53,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.0
+Hyundai,Hyundai Fluidic Verna 4S 1.6 CRDi SX,2017,52,24.8,5.0,Diesel,Manual,165.0,350.0,43.0,126.0,8.08
+Tata,Tata Harrier XZ,2021,27,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,17.85
+Nissan,Nissan Micra XV Petrol,2011,57,18.6,5.0,Petrol,Manual,154.0,251.0,41.0,75.0,3.46
+Tata,Tata Altroz XZ 1.5,2020,22,21.11,5.0,Diesel,Manual,165.0,345.0,37.0,88.76,8.56
+Honda,Honda WR-V i-DTEC VX,2020,18,23.7,5.0,Diesel,Manual,170.0,363.0,40.0,88.51,11.14
+Hyundai,Hyundai New i20 Asta 1.0 Turbo IMT,2020,13,20.2,5.0,Petrol,Manual,170.0,311.0,37.0,118.0,9.19
+Tata,Tata Zest XT ABS Diesel,2017,82,20.65,5.0,Diesel,Manual,170.0,390.0,44.0,88.51,5.88
+Honda,Honda City ZX CVT,2020,50,18.4,5.0,Petrol,Automatic,170.0,506.0,40.0,119.35,13.1
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2021,63,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.95
+Nissan,Nissan Magnite XV Turbo Dual Tone,2021,14,20.0,5.0,Petrol,Manual,205.0,336.0,40.0,99.0,7.85
+Hyundai,Hyundai i10 Sportz Petrol,2014,57,20.36,5.0,Petrol,Manual,165.0,225.0,35.0,68.0,4.35
+Toyota,Toyota Etios VD,2017,53,23.59,5.0,Diesel,Manual,174.0,350.0,45.0,88.51,8.11
+Renault,Renault Kwid RXL,2020,9,20.71,5.0,Petrol,Manual,184.0,279.0,28.0,53.0,4.27
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.3,2018,56,24.0,5.0,Diesel,Manual,170.0,375.0,48.0,89.0,9.55
+Hyundai,Hyundai i20 N Line N8 1.0 Turbo iMT,2021,10,20.2,5.0,Petrol,Manual,170.0,311.0,37.0,118.0,10.56
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha AT Petrol,2020,16,20.0,5.0,Petrol,Automatic,170.0,510.0,43.0,103.25,11.65
+MG,MG Motors Hector 2.0 Sharp,2021,35,17.41,5.0,Diesel,Manual,183.0,587.0,60.0,167.68,18.96
+Tata,Tata Harrier XZ,2020,47,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,15.62
+Hyundai,Hyundai Venue SX 1.0 Turbo,2020,30,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.5
+Renault,Renault Kiger RXZ 1.0 Turbo MT,2021,21,20.53,5.0,Petrol,Manual,205.0,405.0,40.0,99.0,8.65
+Renault,Renault Kwid CLIMBER 1.0 Opt,2020,8,22.0,5.0,Petrol,Manual,184.0,279.0,28.0,67.0,4.94
+Nissan,Nissan Magnite XV Turbo,2021,17,20.0,5.0,Petrol,Manual,205.0,336.0,40.0,88.51,7.57
+Ford,Ford Figo Aspire Titanium Plus 1.5 TDCi,2019,35,19.365,5.0,Diesel,Manual,174.0,359.0,40.0,88.51,7.25
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2012,53,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.49
+Tata,Tata Harrier XZ Plus Dual Tone,2020,54,16.3,5.0,Diesel,Manual,205.0,425.0,50.0,168.0,16.73
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi AMT,2018,34,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,88.5,9.84
+Honda,Honda City VX Diesel,2017,63,24.0,5.0,Diesel,Manual,165.0,510.0,40.0,99.0,9.42
+Hyundai,Hyundai i20 Sportz 1.2,2013,77,18.15,5.0,Petrol,Manual,165.0,295.0,45.0,83.0,4.46
+Honda,Honda Amaze 1.5 VX i-DTEC,2015,63,25.8,5.0,Diesel,Manual,165.0,400.0,35.0,88.51,5.43
+Hyundai,Hyundai Creta S Diesel,2020,55,19.365,5.0,Diesel,Manual,190.0,433.0,50.0,113.42,13.31
+Mahindra,Mahindra Marazzo M2 8str,2019,49,17.3,8.0,Diesel,Manual,200.0,190.0,45.0,121.0,9.55
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2019,40,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,89.0,9.57
+Kia,Kia Sonet GTX Plus 1.0 iMT,2020,8,18.2,5.0,Petrol,Manual,170.0,392.0,45.0,88.51,11.46
+Tata,Tata Punch Creative iRA Pack AMT Dual Tone,2021,22,18.9,5.0,Petrol,Automatic,187.0,366.0,37.0,84.0,9.81
+Mahindra,Mahindra XUV 300 W8 Diesel,2019,83,20.0,5.0,Diesel,Manual,180.0,259.0,42.0,115.0,9.56
+Toyota,Toyota Glanza V,2020,11,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,8.09
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.3,2017,56,25.1,5.0,Diesel,Manual,180.0,353.0,48.0,88.51,8.2
+Nissan,Nissan Micra XV Petrol,2010,38,18.6,5.0,Petrol,Manual,154.0,251.0,41.0,75.0,3.25
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.6,2015,91,25.1,5.0,Diesel,Manual,180.0,353.0,48.0,88.51,7.3
+Volkswagen,Volkswagen Ameo 1.0 Highline Plus Petrol,2019,63,19.44,5.0,Petrol,Manual,165.0,330.0,45.0,88.51,6.48
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI,2013,58,18.9,5.0,Petrol,Manual,165.0,180.0,35.0,67.1,3.01
+Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT,2016,100,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.94
+Hyundai,Hyundai Verna 1.6 CRDI SX + AT,2018,61,22.0,5.0,Diesel,Automatic,165.0,480.0,45.0,88.51,10.08
+Nissan,Nissan Magnite XV Premium Turbo CVT,2021,16,17.7,5.0,Petrol,Automatic,205.0,336.0,40.0,99.0,10.33
+Toyota,Toyota Yaris G,2018,56,17.18,5.0,Petrol,Manual,165.0,476.0,42.0,88.51,7.38
+Hyundai,Hyundai Verna 1.6 VTVT SX,2019,50,17.4,5.0,Petrol,Manual,165.0,480.0,43.0,121.0,9.02
+Tata,Tata Harrier XZ,2020,32,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,17.42
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2019,18,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.85
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.5 AT,2020,49,18.43,5.0,Petrol,Automatic,170.0,375.0,48.0,88.51,11.36
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2016,53,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,8.62
+Mahindra,Mahindra Scorpio S3,2018,51,16.36,7.0,Diesel,Manual,180.0,460.0,60.0,75.0,9.55
+Toyota,Toyota Yaris G CVT,2020,23,19.365,5.0,Petrol,Automatic,170.0,476.0,42.0,88.51,10.4
+Volkswagen,Volkswagen Taigun Highline 1.0 TSI AT,2021,6,19.2,5.0,Petrol,Automatic,188.0,350.0,43.0,114.0,14.9
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2019,22,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,8.59
+Hyundai,Hyundai Venue SX 1.4 CRDI,2019,24,23.7,5.0,Diesel,Manual,190.0,350.0,45.0,98.6,10.13
+Tata,Tata Zest XT Diesel,2018,30,23.0,5.0,Diesel,Manual,165.0,350.0,44.0,89.0,6.73
+Hyundai,Hyundai i20 Active 1.4 SX,2017,27,21.19,5.0,Diesel,Manual,190.0,285.0,45.0,89.0,8.25
+Tata,Tata Nexon XZ Plus Diesel,2018,91,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,7.86
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZDI,2014,75,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,5.95
+Tata,Tata Nexon XZ Plus Petrol,2021,18,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,10.38
+Kia,Kia Seltos GTX Plus AT D,2020,47,17.8,5.0,Diesel,Automatic,190.0,433.0,50.0,88.51,17.62
+Mahindra,Mahindra XUV 300 W8 (O) Dual Tone Diesel,2019,52,20.0,5.0,Diesel,Manual,180.0,259.0,42.0,88.51,11.34
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZXI Plus,2020,85,17.03,5.0,Petrol,Manual,170.0,328.0,48.0,103.26,8.7
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo,2021,13,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,10.38
+Hyundai,Hyundai Verna 1.6 VTVT SX + AT,2019,31,17.01,5.0,Petrol,Automatic,165.0,465.0,43.0,88.51,11.17
+Tata,Tata Nexon XZ Plus Diesel,2019,17,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,9.71
+Mahindra,Mahindra XUV 300 W8 AMT (O) Diesel,2020,37,20.0,5.0,Diesel,Automatic,180.0,350.0,42.0,115.0,13.05
+Nissan,Nissan Kicks XV Petrol,2021,17,13.9,5.0,Petrol,Manual,210.0,400.0,50.0,105.0,8.66
+Tata,Tata Nexon XZ Plus Dual Tone roof Petrol,2019,31,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,8.65
+MG,MG Motors Hector 2.0 Sharp,2019,53,17.41,5.0,Diesel,Manual,183.0,587.0,60.0,167.68,16.17
+Renault,Renault Kiger RXT (O) AMT Dual Tone,2021,6,19.1,5.0,Petrol,Automatic,205.0,405.0,40.0,71.0,8.19
+Skoda,Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),2022,11,17.7,5.0,Petrol,Automatic,188.0,385.0,50.0,148.0,18.12
+Chevrolet,Chevrolet Beat PS Petrol,2015,47,18.6,5.0,Petrol,Manual,165.0,350.0,35.0,79.0,3.1
+Tata,Tata Harrier XZA,2021,39,17.0,5.0,Diesel,Automatic,205.0,425.0,50.0,88.51,20.06
+Hyundai,Hyundai Creta 1.6 SX,2015,78,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.9
+MG,MG Motors Hector Plus Sharp 2.0 Diesel Turbo MT 6-STR,2020,30,16.65,6.0,Diesel,Manual,192.0,155.0,60.0,88.51,18.29
+Maruti Suzuki,Maruti Suzuki Swift VDI RS Limited Edition,2014,86,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,88.51,5.1
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.5 AT,2021,14,18.43,5.0,Petrol,Automatic,180.0,375.0,48.0,88.51,11.09
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2018,45,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.17
+Skoda,Skoda Kushaq Style 1.0L TSI AT,2021,19,17.2,5.0,Petrol,Automatic,188.0,385.0,50.0,114.0,15.54
+Tata,Tata Punch Creative iRA Pack AMT Dual Tone,2021,10,18.9,5.0,Petrol,Automatic,187.0,366.0,37.0,84.0,9.29
+Tata,Tata Harrier XZ Plus Dark Edition,2020,47,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,88.51,19.67
+Tata,Tata Nexon XZ Plus Diesel,2017,60,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,8.48
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2019,36,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.36
+MG,MG Motors Hector Plus Sharp 2.0 Diesel Turbo MT 6-STR,2020,52,16.65,6.0,Diesel,Manual,192.0,155.0,60.0,88.51,16.85
+Mahindra,Mahindra XUV 300 W8 (O) Dual Tone Petrol,2019,26,17.0,5.0,Petrol,Manual,180.0,259.0,42.0,109.0,11.65
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2019,56,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,10.12
+Mahindra,Mahindra TUV300 T10,2018,53,18.49,7.0,Diesel,Manual,184.0,384.0,60.0,84.0,8.55
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2022,23,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,8.18
+Tata,Tata Harrier XZ Plus Dual Tone,2021,29,16.3,5.0,Diesel,Manual,205.0,425.0,50.0,168.0,18.98
+Nissan,Nissan Magnite XV Premium,2021,14,18.75,5.0,Petrol,Manual,205.0,336.0,40.0,88.51,7.92
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS Dual Tone,2018,67,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,88.5,9.9
+Honda,Honda Jazz VX CVT,2020,19,17.1,5.0,Petrol,Automatic,165.0,354.0,40.0,88.5111,9.15
+Mahindra,Mahindra Thar LX 4 STR Convertible Diesel MT,2020,39,15.2,4.0,Diesel,Manual,226.0,350.0,57.0,130.0,14.74
+Maruti Suzuki,Maruti Suzuki Ignis Alpha MT Petrol,2022,5,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,88.51,7.4
+Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT,2019,16,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,6.56
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2015,108,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,10.22
+Hyundai,Hyundai Creta 1.6 SX Plus Auto,2015,82,17.01,5.0,Diesel,Automatic,190.0,400.0,60.0,126.0,10.35
+Hyundai,Hyundai Verna 1.6 VTVT SX,2019,20,17.4,5.0,Petrol,Manual,165.0,480.0,43.0,121.0,9.56
+Volkswagen,Volkswagen Virtus Comfortline 1.0 TSI MT,2022,4,19.4,5.0,Petrol,Manual,179.0,521.0,45.0,114.0,11.92
+Toyota,Toyota Glanza V,2019,10,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.99
+Hyundai,Hyundai Creta 1.6 SX AT,2018,72,15.29,5.0,Diesel,Automatic,190.0,400.0,55.0,121.3,13.61
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2018,31,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,10.79
+Mahindra,Mahindra Scorpio S4 Plus,2017,53,15.4,7.0,Diesel,Manual,180.0,350.0,60.0,120.0,11.1
+Renault,Renault Duster RXZ Petrol,2021,26,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,10.0
+Tata,Tata Safari XZA Plus,2021,26,19.365,7.0,Diesel,Automatic,170.0,350.0,50.0,167.67,21.8
+Hyundai,Hyundai Alcazar Platinum 7 STR 2.0 Petrol MT,2021,44,14.5,7.0,Petrol,Manual,200.0,180.0,50.0,157.0,16.72
+Mahindra,Mahindra Thar LX 4 STR Convertible Diesel AT,2021,7,15.0,4.0,Diesel,Automatic,226.0,350.0,57.0,130.0,16.93
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo,2020,36,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,11.01
+Hyundai,Hyundai Venue SX 1.0 Turbo,2021,25,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.9
+Hyundai,Hyundai i20 Sportz 1.4 CRDI,2014,89,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,5.46
+Honda,Honda WR-V VX i-VTEC,2017,64,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,6.82
+Tata,Tata Altroz XT 1.2,2020,46,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,88.51,7.12
+MG,MG Motors Hector 1.5 Hybrid Sharp,2019,37,15.81,5.0,Petrol,Manual,183.0,587.0,60.0,88.51,15.6
+Volkswagen,Volkswagen Polo Comfortline 1.0L (P),2019,44,17.74,5.0,Petrol,Manual,165.0,280.0,45.0,75.01,6.28
+Toyota,Toyota Glanza G Hybrid,2019,22,23.87,5.0,Petrol,Manual,170.0,339.0,37.0,88.51,8.13
+Volkswagen,Volkswagen Tiguan AllSpace 2.0 TSI AT,2020,47,17.01,7.0,Petrol,Automatic,201.0,340.0,60.0,88.51,27.33
+Tata,Tata Harrier XZ,2021,16,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,17.54
+Maruti Suzuki,Maruti Suzuki S-Cross Delta 1.5,2020,12,18.55,5.0,Petrol,Manual,180.0,375.0,48.0,103.25,9.25
+MG,MG Motors Hector 1.5 Hybrid Smart,2020,33,15.81,5.0,Petrol,Manual,170.0,587.0,60.0,141.0,14.64
+Tata,Tata Safari XZ Plus,2021,13,16.14,7.0,Diesel,Manual,205.0,350.0,50.0,88.51,21.68
+Toyota,Toyota Yaris J,2021,27,17.18,5.0,Petrol,Manual,170.0,476.0,42.0,105.94,9.21
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2019,60,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,8.05
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2019,25,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.02
+Datsun,Datsun GO T (O),2021,15,19.02,5.0,Petrol,Manual,185.0,222.0,28.0,67.0,5.3
+Kia,Kia Sonet HTX 1.0 iMT,2021,24,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,11.35
+Ford,Ford EcoSport Trend + 1.5L TDCi,2017,74,22.7,5.0,Diesel,Manual,100.0,346.0,52.0,99.0,6.94
+Kia,Kia Sonet HTX 1.0 iMT,2021,22,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,10.75
+Hyundai,Hyundai Xcent SX Petrol,2018,20,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,6.1
+Volkswagen,Volkswagen Polo Highline 1.5 (D),2019,89,20.18,5.0,Diesel,Manual,165.0,350.0,45.0,88.0,7.13
+Kia,Kia Seltos GTX Plus DCT,2019,78,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,14.48
+Nissan,Nissan Magnite XV Premium Turbo CVT,2021,13,17.7,5.0,Petrol,Automatic,205.0,336.0,40.0,99.0,10.47
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,39,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,10.3
+Renault,Renault Triber RXZ,2020,54,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,6.28
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZXI Plus,2022,4,17.03,5.0,Petrol,Manual,170.0,328.0,48.0,103.26,12.57
+Tata,Tata Safari XT Plus,2021,25,16.1,7.0,Diesel,Manual,205.0,350.0,43.0,168.0,18.94
+Tata,Tata Harrier XZ Dark Edition,2021,29,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,88.51,18.48
+Honda,Honda City VX,2020,4,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,12.48
+MG,MG Motors Hector Plus Sharp 2.0 Diesel Turbo MT 6-STR,2021,28,16.65,6.0,Diesel,Manual,192.0,155.0,60.0,88.51,19.84
+Kia,Kia Seltos GTX Plus,2019,26,16.1,5.0,Petrol,Manual,170.0,433.0,50.0,138.0,14.97
+Renault,Renault Duster 85 PS RxL,2014,88,20.45,5.0,Diesel,Manual,205.0,475.0,50.0,83.0,5.7
+Tata,Tata Altroz XZ 1.2,2022,12,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,8.47
+Chevrolet,Chevrolet Beat LS Petrol,2014,33,18.6,5.0,Petrol,Manual,165.0,170.0,35.0,79.0,2.73
+Hyundai,Hyundai Creta 1.6 SX VTVT,2019,40,15.29,5.0,Petrol,Manual,190.0,400.0,55.0,122.0,12.16
+Ford,Ford Figo Aspire Titanium Plus 1.5 TDCi,2021,39,19.365,5.0,Diesel,Manual,174.0,359.0,40.0,88.51,8.12
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,65,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.99
+Kia,Kia Sonet HTX 1.5,2022,7,24.1,5.0,Diesel,Manual,205.0,392.0,45.0,88.51,12.9
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2011,45,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.19
+Hyundai,Hyundai i10 Magna Petrol,2013,90,19.81,5.0,Petrol,Manual,165.0,350.0,35.0,68.0,3.32
+Hyundai,Hyundai Elite i20 Magna Executive CVT,2018,42,19.8,5.0,Petrol,Automatic,170.0,285.0,45.0,82.0,6.82
+Tata,Tata Harrier XZ,2019,62,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,16.69
+Hyundai,Hyundai Grand i10 Sportz (O) 1.2 kappa VTVT,2017,40,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.42
+Volkswagen,Volkswagen Virtus Topline 1.0 TSI AT,2022,7,19.4,5.0,Petrol,Automatic,179.0,521.0,45.0,114.0,18.1
+Nissan,Nissan Kicks XL Petrol,2021,4,13.9,5.0,Petrol,Manual,210.0,400.0,50.0,105.0,8.18
+Ford,Ford EcoSport Titanium + 1.5L TDCi,2017,69,22.7,5.0,Diesel,Manual,200.0,350.0,52.0,99.0,7.69
+Tata,Tata Tiago XZ Plus Dual Tone Roof,2020,40,20.0,5.0,Petrol,Manual,170.0,242.0,35.0,85.0,6.09
+Maruti Suzuki,Maruti Suzuki Omni E 8 STR BS-IV,2018,12,16.8,8.0,Petrol,Manual,165.0,350.0,36.0,34.0,3.49
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,74,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.92
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,70,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.98
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDi ABS,2015,63,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,5.7
+Nissan,Nissan Magnite XV Premium Dual Tone,2021,48,18.75,5.0,Petrol,Manual,205.0,336.0,40.0,71.02,7.84
+Hyundai,Hyundai Creta 1.6 SX Plus,2015,86,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.22
+Hyundai,Hyundai Elite i20 Asta 1.2,2015,48,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.8
+Hyundai,Hyundai Grand i10 Magna AT 1.2 Kappa VTVT,2017,22,17.49,5.0,Petrol,Automatic,165.0,350.0,43.0,81.0,5.19
+Honda,Honda City VX,2014,42,17.8,5.0,Petrol,Manual,165.0,350.0,40.0,117.3,5.2
+Skoda,Skoda Octavia Elegance 1.8 TSI AT,2016,47,14.7,5.0,Petrol,Automatic,155.0,590.0,50.0,177.0,11.72
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2016,33,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.85
+Skoda,Skoda Kushaq Ambition 1.0L TSI AT,2021,11,17.2,5.0,Petrol,Automatic,188.0,385.0,50.0,114.0,13.53
+Maruti Suzuki,Maruti Suzuki Ignis Zeta MT Petrol,2018,20,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,81.8,5.15
+Hyundai,Hyundai i10 Sportz Petrol,2014,43,20.36,5.0,Petrol,Manual,165.0,225.0,35.0,68.0,3.37
+Honda,Honda Amaze 1.2 S CVT i-VTEC,2019,92,18.6,5.0,Petrol,Automatic,165.0,420.0,35.0,88.76,5.79
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2015,28,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.47
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2019,16,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.61
+Volkswagen,Volkswagen Polo Comfortline 1.2L (P),2017,39,16.2,5.0,Petrol,Manual,165.0,280.0,45.0,74.0,5.39
+Skoda,Skoda Slavia Style 1.0L TSI MT,2022,25,19.47,5.0,Petrol,Manual,170.0,521.0,45.0,114.0,13.82
+Maruti Suzuki,Maruti Suzuki Dzire VXI AMT,2018,63,24.12,5.0,Petrol,Automatic,163.0,378.0,37.0,88.5,5.73
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2017,69,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,5.39
+Datsun,Datsun Redi-GO A,2021,13,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,3.36
+Honda,Honda Brio S MT,2016,60,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,3.93
+Hyundai,Hyundai Venue SX 1.0 Turbo,2019,18,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,8.54
+Maruti Suzuki,Maruti Suzuki Ciaz Delta Petrol,2019,15,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,7.61
+MG,MG Motors Astor Sharp 1.5 CVT,2021,9,14.82,5.0,Petrol,Automatic,180.0,488.0,48.0,108.0,15.13
+Honda,Honda Mobilio S Petrol,2014,30,17.3,7.0,Petrol,Manual,189.0,350.0,42.0,118.0,4.77
+Hyundai,Hyundai New i20 Asta (O) 1.0 Turbo DCT,2020,23,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,10.3
+Tata,Tata Safari XZA,2021,22,19.365,7.0,Diesel,Automatic,205.0,447.0,50.0,167.67,18.16
+Renault,Renault Duster RxL Petrol,2013,43,13.06,5.0,Petrol,Manual,205.0,350.0,50.0,102.53,4.49
+Honda,Honda Amaze 1.2 V CVT Petrol,2019,30,18.3,5.0,Petrol,Automatic,170.0,420.0,35.0,88.76,6.88
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2018,31,20.5,5.0,Petrol+cng,Manual,165.0,350.0,35.0,58.0,4.68
+Maruti Suzuki,Maruti Suzuki Swift VXI,2020,14,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.33
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT CNG (Outside Fitted),2019,26,19.77,5.0,Petrol+cng,Manual,165.0,350.0,43.0,81.0,6.18
+Renault,Renault Triber RXZ Dual Tone,2022,14,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,7.75
+Toyota,Toyota Urban Cruiser Premium Grade AT,2021,17,18.76,5.0,Petrol,Automatic,198.0,328.0,48.0,103.26,11.26
+Volkswagen,Volkswagen Taigun GT Plus 1.5 TSI DSG,2021,35,17.8,5.0,Petrol,Automatic,188.0,50.0,50.0,148.0,17.5
+Hyundai,Hyundai i10 Magna Petrol,2013,46,19.81,5.0,Petrol,Manual,165.0,350.0,35.0,68.0,3.01
+Hyundai,Hyundai Fluidic Verna 4S 1.6 CRDi SX,2016,88,24.8,5.0,Diesel,Manual,165.0,350.0,43.0,126.0,7.62
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2019,10,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,7.68
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Petrol,2017,55,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.42
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2019,15,24.07,5.0,Petrol,Manual,160.0,177.0,35.0,67.0,4.18
+Mahindra,Mahindra XUV700 AX 3 Diesel MT 7 STR,2022,12,15.0,7.0,Diesel,Manual,200.0,350.0,60.0,153.0,18.4
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol AT,2018,39,20.73,5.0,Petrol,Automatic,170.0,510.0,43.0,91.1,8.27
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI Plus,2022,1,24.39,5.0,Petrol,Manual,160.0,350.0,35.0,66.0,5.26
+Hyundai,Hyundai Verna 1.4 VTVT EX,2018,42,17.43,5.0,Petrol,Manual,165.0,465.0,43.0,88.51,7.26
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.3,2018,31,23.65,5.0,Diesel,Manual,180.0,353.0,48.0,89.0,9.86
+Hyundai,Hyundai Verna S plus Petrol,2022,10,19.365,5.0,Petrol,Manual,170.0,480.0,45.0,88.51,9.9
+Honda,Honda City V,2013,71,17.0,5.0,Petrol,Manual,160.0,506.0,42.0,118.0,5.06
+Chevrolet,Chevrolet Spark LS 1.0,2014,81,18.0,5.0,Petrol,Manual,170.0,350.0,38.0,88.51,2.65
+Honda,Honda City V 5th Gen,2021,19,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,11.09
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2020,33,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,7.26
+Tata,Tata Hexa XE,2018,51,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,9.46
+Toyota,Toyota Urban Cruiser High Grade MT,2022,19,19.365,5.0,Petrol,Manual,170.0,328.0,48.0,88.51,9.1
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2019,30,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.99
+Hyundai,Hyundai Verna 1.6 CRDI SX + AT,2018,90,22.0,5.0,Diesel,Automatic,165.0,480.0,45.0,88.51,11.39
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus,2018,51,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.6
+Ford,Ford EcoSport Titanium 1.0L Ecoboost,2015,46,18.88,5.0,Petrol,Manual,200.0,346.0,52.0,123.37,5.64
+Maruti Suzuki,Maruti Suzuki S-Cross Delta 1.3,2020,41,24.0,5.0,Diesel,Manual,180.0,375.0,48.0,89.0,9.2
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2017,23,20.5,5.0,Petrol+cng,Manual,165.0,350.0,35.0,58.0,4.48
+Toyota,Toyota Yaris G,2018,56,17.18,5.0,Petrol,Manual,165.0,476.0,42.0,88.51,8.7
+Skoda,Skoda Rapid New Style Petrol,2017,45,15.0,5.0,Petrol,Manual,163.0,460.0,55.0,103.0,5.96
+Maruti Suzuki,Maruti Suzuki Swift VDi ABS,2017,52,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,6.52
+Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,2018,21,17.0,5.0,Petrol,Automatic,165.0,480.0,45.0,121.3,9.72
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2014,47,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,2.44
+Volkswagen,Volkswagen Ameo 1.0 Highline Plus Petrol,2019,51,19.44,5.0,Petrol,Manual,165.0,330.0,45.0,88.51,6.22
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Diesel,2017,35,27.39,5.0,Diesel,Manual,170.0,339.0,37.0,74.0,7.17
+Maruti Suzuki,Maruti Suzuki Baleno Delta Diesel,2018,31,27.39,5.0,Diesel,Manual,170.0,339.0,37.0,74.0,7.08
+Renault,Renault Duster 110 PS RxZ 4x2 MT,2013,94,19.01,5.0,Diesel,Manual,205.0,475.0,50.0,108.45,5.09
+Volkswagen,Volkswagen Polo Trendline 1.0 (P),2021,32,17.74,5.0,Petrol,Manual,165.0,280.0,45.0,75.1,6.2
+Tata,Tata Nexon XZA Plus Dual Tone Roof AMT Petrol,2018,38,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,118.0,8.88
+Maruti Suzuki,Maruti Suzuki Ritz Vdi,2015,61,23.2,5.0,Diesel,Manual,170.0,236.0,43.0,73.0,4.61
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2021,35,32.5,5.0,Petrol+cng,Manual,165.0,341.0,60.0,88.51,5.79
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2021,12,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.33,3.82
+Maruti Suzuki,Maruti Suzuki Swift VXI AMT,2020,9,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,6.14
+Nissan,Nissan Kicks XV Premium (O) Dual Tone Diesel,2019,78,19.365,5.0,Diesel,Manual,210.0,400.0,50.0,108.5,8.64
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2011,35,19.365,5.0,Petrol,Manual,170.0,232.0,43.0,88.51,3.49
+Maruti Suzuki,Maruti Suzuki Swift VXI CNG (Outside Fitted),2014,50,19.365,5.0,Petrol+cng,Manual,170.0,232.0,42.0,88.51,4.61
+Skoda,Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),2021,16,17.7,5.0,Petrol,Automatic,188.0,385.0,50.0,148.0,15.77
+Hyundai,Hyundai Creta 1.4 S,2019,62,21.38,5.0,Diesel,Manual,190.0,400.0,55.0,89.0,11.5
+Tata,Tata Altroz XZ 1.2,2020,12,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,7.85
+Chevrolet,Chevrolet Beat LT Petrol,2016,55,18.6,5.0,Petrol,Manual,165.0,350.0,35.0,79.0,2.82
+Toyota,Toyota Innova Crysta 2.4 GX 7 STR,2017,64,15.1,7.0,Diesel,Manual,176.0,350.0,55.0,148.0,15.7
+Hyundai,Hyundai Xcent SX Petrol,2019,26,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,5.79
+Datsun,Datsun Redi-GO T (O),2018,62,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.68
+Tata,Tata Punch Kaziranga Edition IRA,2022,7,18.9,5.0,Petrol,Manual,187.0,366.0,37.0,84.0,7.89
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2018,34,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,4.1
+Volkswagen,Volkswagen Tiguan AllSpace 2.0 TSI AT,2019,47,17.01,7.0,Petrol,Automatic,201.0,340.0,60.0,88.51,22.75
+Hyundai,Hyundai Elantra 2.0 SX(O) AT,2017,23,14.62,5.0,Petrol,Automatic,167.0,420.0,50.0,149.92,11.58
+Maruti Suzuki,Maruti Suzuki Dzire ZXI Plus AMT,2017,84,24.12,5.0,Petrol,Automatic,170.0,378.0,37.0,88.5,5.79
+Hyundai,Hyundai Grand i10 Sportz 1.2 CRDi,2017,100,24.95,5.0,Diesel,Manual,165.0,256.0,43.0,74.0,4.32
+Ford,Ford EcoSport Titanium 1.5L TDCi,2018,55,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.86,7.73
+Mahindra,Mahindra Thar LX 4 STR Convertible Diesel MT,2021,60,15.2,4.0,Diesel,Manual,226.0,350.0,57.0,130.0,12.94
+Volkswagen,Volkswagen Ameo Highline1.2L Plus (P),2017,62,17.0,5.0,Petrol,Manual,163.0,330.0,45.0,73.75,5.44
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,31,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,9.41
+Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT (O),2014,44,18.9,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.27
+Mahindra,Mahindra Thar LX 4 STR Convertible Diesel AT,2020,52,15.0,4.0,Diesel,Automatic,226.0,350.0,57.0,130.0,14.56
+Honda,Honda Brio S MT,2015,68,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,3.95
+Volkswagen,Volkswagen Jetta Comfortline TDI,2015,66,19.33,5.0,Diesel,Manual,170.0,350.0,55.0,88.51,6.99
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI Plus,2022,1,24.39,5.0,Petrol,Manual,160.0,350.0,35.0,66.0,5.08
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2018,55,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,6.57
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.5,2020,16,18.55,5.0,Petrol,Manual,170.0,375.0,48.0,103.25,10.06
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZXI,2012,38,17.5,5.0,Petrol,Manual,170.0,440.0,43.0,85.8,3.97
+Hyundai,Hyundai Accent Executive,2013,30,19.365,5.0,Petrol,Manual,172.0,350.0,45.0,88.51,3.38
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2018,60,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,6.45
+Honda,Honda Amaze 1.2L VX CVT,2017,32,18.0,5.0,Petrol,Automatic,165.0,400.0,35.0,86.9,5.99
+Tata,Tata Nexon XZ Plus (O),2020,33,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.0,9.57
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2018,41,22.0,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.18
+Hyundai,Hyundai Accent Executive,2012,53,19.365,5.0,Petrol,Manual,172.0,350.0,45.0,88.51,2.99
+Maruti Suzuki,Maruti Suzuki Swift Dzire VDI,2014,60,23.4,5.0,Diesel,Manual,170.0,320.0,42.0,74.0,4.8
+Hyundai,Hyundai i20 N Line N8 1.0 Turbo DCT,2022,2,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,10.89
+Maruti Suzuki,Maruti Suzuki Wagon R 1.2 ZXI,2022,24,20.52,5.0,Petrol,Manual,170.0,341.0,32.0,88.0,5.79
+Hyundai,Hyundai Grand i10 Sportz 1.1 CRDi,2016,100,18.9,5.0,Diesel,Manual,165.0,350.0,43.0,70.0,3.91
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS AT Dual Tone,2018,95,24.3,5.0,Diesel,Automatic,198.0,328.0,48.0,89.0,7.46
+Nissan,Nissan Magnite XV Premium Turbo CVT Dual Tone,2021,28,17.7,5.0,Petrol,Automatic,205.0,336.0,40.0,99.0,8.76
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Opt CNG,2021,22,31.19,5.0,Petrol+cng,Manual,180.0,270.0,27.0,58.0,4.95
+Mahindra,Mahindra KUV100 K4 6 STR,2016,60,18.15,6.0,Petrol,Manual,170.0,350.0,35.0,88.51,3.39
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2020,34,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.72
+Honda,Honda Amaze 1.2 VX i-VTEC,2018,83,18.6,5.0,Petrol,Manual,170.0,420.0,35.0,88.76,5.74
+Hyundai,Hyundai Grand i10 Sportz (O) 1.2 kappa VTVT,2017,30,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.38
+Hyundai,Hyundai Elite i20 Asta 1.2 CNG (Outside fitted),2018,51,19.8,5.0,Petrol+cng,Manual,170.0,285.0,45.0,82.0,6.72
+Honda,Honda WR-V i-DTEC VX,2017,76,23.7,5.0,Diesel,Manual,188.0,363.0,40.0,97.89,7.19
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI (O),2022,26,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.33,3.86
+Ford,Ford EcoSport Trend + 1.5L TDCi,2017,64,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,6.78
+Tata,Tata Tigor Revotron XZA plus AMT,2021,50,19.365,5.0,Petrol,Automatic,170.0,350.0,43.0,88.51,7.4
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2017,41,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,8.99
+Maruti Suzuki,Maruti Suzuki Ciaz ZXI+ AT,2016,15,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,7.39
+Mahindra,Mahindra XUV 300 W8 Diesel,2019,84,20.0,5.0,Diesel,Manual,180.0,259.0,42.0,115.0,9.59
+Skoda,Skoda Superb Style TSI AT,2018,38,14.67,5.0,Petrol,Automatic,164.0,350.0,66.0,177.0,22.01
+Honda,Honda City VX,2019,35,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,9.53
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2017,50,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.22
+Maruti Suzuki,Maruti Suzuki Celerio ZXI AMT,2016,28,23.1,5.0,Petrol,Automatic,165.0,235.0,35.0,67.04,4.43
+Maruti Suzuki,Maruti Suzuki Dzire VXI,2019,13,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,6.86
+Tata,Tata Punch Kaziranga Edition AMT IRA,2022,22,19.365,5.0,Petrol,Automatic,170.0,350.0,43.0,88.51,8.87
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT AT,2017,48,19.365,5.0,Petrol,Automatic,200.0,352.0,52.0,88.51,6.67
+Datsun,Datsun Redi-GO T (O),2019,9,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,3.36
+Tata,Tata Zest XMS Diesel,2015,50,23.0,5.0,Diesel,Manual,165.0,390.0,44.0,89.0,4.63
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2019,74,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,5.35
+Toyota,Toyota Corolla Altis G AT Petrol,2016,32,16.7,5.0,Petrol,Automatic,175.0,470.0,55.0,138.0,9.8
+Renault,Renault Kiger RXT (O) AMT Dual Tone,2023,4,19.1,5.0,Petrol,Automatic,205.0,405.0,40.0,71.0,8.33
+Nissan,Nissan Micra Active XV Safety Pack,2018,52,19.49,5.0,Petrol,Manual,154.0,251.0,41.0,67.0,4.4
+Maruti Suzuki,Maruti Suzuki Baleno Alpha AT Petrol,2019,17,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,8.27
+Datsun,Datsun Redi-GO S,2019,17,19.365,5.0,Petrol,Manual,170.0,222.0,28.0,88.51,3.28
+Renault,Renault Duster 110 PS RXZ 4X2 AMT,2016,65,19.6,5.0,Diesel,Automatic,205.0,475.0,50.0,108.45,7.56
+Kia,Kia Carnival Limousine,2020,53,19.365,5.0,Diesel,Automatic,170.0,350.0,43.0,88.51,28.29
+Maruti Suzuki,Maruti Suzuki Ritz Vdi,2014,75,23.2,5.0,Diesel,Manual,170.0,236.0,43.0,73.0,3.84
+Honda,Honda Jazz VX Diesel,2018,70,27.3,5.0,Diesel,Manual,165.0,350.0,40.0,98.6,6.73
+Maruti Suzuki,Maruti Suzuki Wagon R 1.2 VXI AMT,2021,27,20.5,5.0,Petrol,Automatic,170.0,341.0,32.0,88.51,5.94
+Hyundai,Hyundai Elite i20 Magna Plus 1.2,2020,24,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.75
+Tata,Tata Nexon XZ Plus (O),2022,15,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.0,10.64
+Volkswagen,Volkswagen Vento Highline Diesel,2018,48,22.27,5.0,Diesel,Manual,163.0,494.0,55.0,108.6,8.23
+Maruti Suzuki,Maruti Suzuki Ciaz SHVS RS Diesel,2016,56,28.09,5.0,Diesel,Manual,170.0,510.0,43.0,88.5,6.99
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2014,42,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.75
+Maruti Suzuki,Maruti Suzuki Swift ZXI,2019,41,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,6.6
+Mahindra,Mahindra Thar LX 4 STR Hard Top Petrol AT,2022,12,19.365,4.0,Petrol,Automatic,226.0,350.0,57.0,150.0,15.82
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.3,2016,87,23.65,5.0,Diesel,Manual,180.0,353.0,48.0,89.0,6.93
+Maruti Suzuki,Maruti Suzuki Swift ZDi Plus,2018,29,25.2,5.0,Diesel,Manual,163.0,268.0,42.0,74.0,7.91
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2018,15,22.0,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.45
+Renault,Renault Kwid RXT,2016,42,25.12,5.0,Petrol,Manual,180.0,300.0,28.0,53.3,3.2
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,86,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,3.4
+Skoda,Skoda Rapid Ambition 1.6 MPI MT Plus,2013,48,15.0,5.0,Petrol,Manual,168.0,460.0,55.0,104.0,2.99
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2013,82,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,2.84
+Renault,Renault Duster RXZ Petrol,2020,43,16.42,5.0,Petrol,Manual,205.0,475.0,50.0,88.51,8.64
+Hyundai,Hyundai i20 N Line N8 1.0 Turbo DCT,2021,4,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,10.59
+Ford,Ford Freestyle Trend Plus 1.2 Ti-VCT,2019,21,19.365,5.0,Petrol,Manual,170.0,257.0,42.0,88.51,4.75
+Maruti Suzuki,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,2010,34,16.11,5.0,Petrol,Manual,160.0,540.0,40.0,72.42,1.78
+Maruti Suzuki,Maruti Suzuki Swift ZXI Plus AMT,2019,54,21.21,5.0,Petrol,Automatic,163.0,268.0,37.0,81.8,5.98
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2016,41,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.4
+Ford,Ford Figo Duratec Petrol ZXI 1.2,2014,13,11.0,5.0,Petrol,Manual,170.0,350.0,45.0,71.0,2.64
+Honda,Honda Jazz VX Diesel,2017,49,27.3,5.0,Diesel,Manual,165.0,350.0,40.0,98.6,4.82
+Hyundai,Hyundai Grand i10 Sportz 1.2 CRDi,2017,48,24.95,5.0,Diesel,Manual,165.0,256.0,43.0,74.0,3.99
+Hyundai,Hyundai Grand i10 Nios Asta 1.2 Kappa VTVT,2021,12,20.7,5.0,Petrol,Manual,165.0,260.0,37.0,81.86,6.86
+Maruti Suzuki,Maruti Suzuki Dzire ZDi Plus AMT,2018,34,28.4,5.0,Diesel,Automatic,163.0,378.0,37.0,74.02,7.6
+Tata,Tata Altroz XZ Plus 1.2,2021,36,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,6.89
+Mahindra,Mahindra Marazzo M8,2018,29,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,88.51,8.68
+Maruti Suzuki,Maruti Suzuki Celerio ZXI,2022,11,21.63,5.0,Petrol,Manual,165.0,235.0,35.0,67.04,5.47
+Datsun,Datsun GO T,2016,21,19.02,5.0,Petrol,Manual,170.0,265.0,35.0,67.05,2.48
+Tata,Tata Nexon XT Petrol,2018,62,19.365,5.0,Petrol,Manual,170.0,350.0,44.0,88.51,4.8
+Hyundai,Hyundai Elantra 1.6 SX MT,2019,61,22.7,5.0,Diesel,Manual,170.0,350.0,56.0,126.0,10.46
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2020,27,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,7.77
+Hyundai,Hyundai Venue SX 1.0 (O) Turbo Dual Tone,2019,10,18.27,5.0,Petrol,Manual,170.0,350.0,45.0,118.35,8.16
+Toyota,Toyota Corolla Altis G Petrol,2018,30,14.28,5.0,Petrol,Manual,175.0,470.0,55.0,138.03,10.77
+Toyota,Toyota Etios V,2014,44,17.57,5.0,Petrol,Manual,170.0,595.0,45.0,80.0,3.21
+Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.5,2020,11,18.55,5.0,Petrol,Manual,170.0,375.0,48.0,103.25,8.77
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2020,11,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.53
+Maruti Suzuki,Maruti Suzuki Celerio X ZXI AMT,2019,40,21.63,5.0,Petrol,Automatic,165.0,235.0,35.0,67.0,4.56
+Hyundai,Hyundai Elite i20 Asta 1.2,2018,21,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,5.96
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2014,61,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,3.57
+Maruti Suzuki,Maruti Suzuki Vitara Brezza LDi,2019,91,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,5.61
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.5,2021,7,18.55,5.0,Petrol,Manual,180.0,375.0,48.0,88.51,8.32
+Maruti Suzuki,Maruti Suzuki Wagon R 1.2 VXI,2019,43,20.52,5.0,Petrol,Manual,170.0,341.0,32.0,81.8,4.51
+Ford,Ford EcoSport Trend 1.5L TDCi,2016,49,22.7,5.0,Diesel,Manual,100.0,346.0,52.0,99.0,4.93
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2020,18,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.49
+Maruti Suzuki,Maruti Suzuki Swift VXI,2018,19,21.21,5.0,Petrol,Manual,163.0,268.0,37.0,81.8,5.22
+Toyota,Toyota Corolla Altis GL Diesel,2018,72,21.3,5.0,Diesel,Manual,175.0,470.0,55.0,87.0,9.99
+Honda,Honda WR-V i-VTEC S,2019,17,17.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.7,6.67
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2020,16,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,9.92
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2016,20,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.89
+Tata,Tata Nexon XZ Plus (O),2021,7,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.0,10.33
+Maruti Suzuki,Maruti Suzuki Ciaz Alpha Petrol,2021,8,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.26
+Ford,Ford EcoSport Trend 1.5L Ti-VCT,2015,80,15.8,5.0,Petrol,Manual,200.0,346.0,52.0,109.0,4.29
+Nissan,Nissan Terrano XL (P),2018,28,13.2,5.0,Petrol,Manual,170.0,350.0,50.0,88.51,4.98
+Maruti Suzuki,Maruti Suzuki Ritz VXI Elate Limited Edition,2014,56,19.365,5.0,Petrol,Manual,170.0,350.0,43.0,88.51,2.69
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2021,7,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.33,3.44
+Ford,Ford EcoSport Trend + 1.5L TDCi,2018,48,21.7,5.0,Diesel,Manual,200.0,352.0,52.0,98.96,6.91
+Hyundai,Hyundai Venue SX(O) 1.4 CRDI,2019,41,23.7,5.0,Diesel,Manual,170.0,350.0,45.0,88.51,8.58
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2020,9,21.79,5.0,Petrol,Manual,170.0,341.0,32.0,67.0,4.92
+Maruti Suzuki,Maruti Suzuki Wagon R 1.2 VXI AMT,2019,96,20.5,5.0,Petrol,Automatic,170.0,341.0,32.0,88.51,4.36
+Hyundai,Hyundai New Santro 1.1 Sportz MT,2019,21,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.73
+Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,32,18.15,5.0,Petrol,Automatic,195.0,350.0,45.0,118.35,9.03
+Maruti Suzuki,Maruti Suzuki Celerio X VXI,2020,14,21.63,5.0,Petrol,Manual,165.0,235.0,35.0,67.0,4.46
+Hyundai,Hyundai New Santro 1.1 Magna,2021,21,20.3,5.0,Petrol,Manual,170.0,235.0,35.0,68.07,4.49
+Maruti Suzuki,Maruti Suzuki Ignis Zeta MT Petrol,2020,20,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,81.0,5.29
+Kia,Kia Sonet HTX 1.0 iMT,2021,13,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,9.3
+Kia,Kia Sonet HTX 1.0 iMT,2020,27,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,9.3
+Honda,Honda City VX,2018,47,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,7.63
+Honda,Honda City VX,2019,42,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,7.66
+Hyundai,Hyundai Elite i20 Sportz Plus 1.2,2020,32,19.8,5.0,Petrol,Manual,170.0,285.0,40.0,82.0,6.11
+Honda,Honda BR-V S MT Diesel,2018,56,19.365,7.0,Diesel,Manual,210.0,223.0,42.0,88.51,7.1
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI (O) AMT,2018,52,19.365,5.0,Petrol,Automatic,165.0,350.0,35.0,88.51,4.39
+Honda,Honda Amaze 1.2 S (O),2017,42,17.8,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,4.53
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2016,19,18.9,5.0,Petrol,Manual,165.0,350.0,35.0,67.1,3.35
+Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX,2012,78,21.9,5.0,Diesel,Manual,170.0,465.0,43.0,126.0,4.59
+Toyota,Toyota Etios V,2015,70,17.57,5.0,Petrol,Manual,170.0,595.0,45.0,80.0,3.99
+Hyundai,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,2021,10,20.7,5.0,Petrol,Manual,165.0,260.0,37.0,81.86,6.19
+Hyundai,Hyundai i20 Active S Petrol+cng(outside fitted),2016,48,17.19,5.0,Petrol+cng,Manual,190.0,350.0,45.0,82.0,5.6
+Maruti Suzuki,Maruti Suzuki Ciaz S Petrol,2020,52,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.69
+Honda,Honda City ZX,2020,10,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.35,12.95
+Volkswagen,Volkswagen Polo Trendline 1.0 (P),2019,61,17.74,5.0,Petrol,Manual,165.0,280.0,45.0,75.1,4.98
+Tata,Tata Nexon XZ Plus S,2020,19,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,118.3,9.48
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2019,21,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,7.39
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2019,53,24.07,5.0,Petrol,Manual,160.0,177.0,35.0,67.0,3.3
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZXI Plus,2020,95,17.03,5.0,Petrol,Manual,170.0,328.0,48.0,103.26,7.99
+Hyundai,Hyundai New i20 Asta (O) 1.0 Turbo DCT,2021,45,20.2,5.0,Petrol,Automatic,170.0,311.0,37.0,118.0,9.25
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2020,20,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.35
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Opt CNG,2022,17,31.19,5.0,Petrol+cng,Manual,180.0,270.0,27.0,58.0,5.32
+Mahindra,Mahindra Marazzo M8,2018,77,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,88.51,9.25
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2021,28,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.9
+Maruti Suzuki,Maruti Suzuki Baleno Delta AT Petrol,2019,47,21.01,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,6.3
+Tata,Tata Nexon XZ Plus Diesel S,2021,100,21.5,5.0,Diesel,Manual,209.0,350.0,44.0,108.0,9.14
+Tata,Tata Tiago Revotron XZA AMT,2019,57,23.84,5.0,Petrol,Automatic,170.0,242.0,35.0,83.83,4.95
+Honda,Honda City VX CVT,2014,76,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,117.3,5.99
+Mahindra,Mahindra Marazzo M6,2019,59,17.3,7.0,Diesel,Manual,170.0,190.0,45.0,88.51,8.65
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2021,15,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.42
+Tata,Tata Tiago Revotron XZ Plus,2021,52,20.0,5.0,Petrol,Manual,170.0,242.0,35.0,85.0,5.79
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2022,10,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.9
+Tata,Tata Hexa XM,2017,110,17.6,7.0,Diesel,Manual,200.0,128.0,60.0,153.6,8.29
+Kia,Kia Sonet HTX 1.0 iMT,2022,15,18.2,5.0,Petrol,Manual,205.0,392.0,45.0,88.51,10.5
+Mahindra,Mahindra Scorpio S4,2017,67,15.4,7.0,Diesel,Manual,180.0,350.0,60.0,120.0,9.42
+Skoda,Skoda Rapid New Rider Petrol,2021,28,18.97,5.0,Petrol,Manual,163.0,460.0,55.0,109.0,7.22
+Hyundai,Hyundai i10 Magna Petrol,2016,34,19.81,5.0,Petrol,Manual,165.0,350.0,35.0,68.0,3.09
+Honda,Honda City V Diesel,2019,89,25.6,5.0,Diesel,Manual,165.0,510.0,40.0,97.9,8.72
+Hyundai,Hyundai Verna 1.6 CRDI SX (O) AT,2019,41,23.9,5.0,Diesel,Automatic,165.0,465.0,43.0,126.0,11.12
+Nissan,Nissan Micra Active XV,2018,45,19.69,5.0,Petrol,Manual,154.0,251.0,41.0,67.04,3.86
+Nissan,Nissan Terrano XL Petrol,2014,52,13.24,5.0,Petrol,Manual,205.0,475.0,50.0,102.5,4.52
+Honda,Honda Amaze 1.2 S i-VTEC,2014,107,18.0,5.0,Petrol,Manual,165.0,400.0,35.0,86.7,2.99
+Mahindra,Mahindra XUV 300 W6 AMT Diesel,2019,95,20.0,5.0,Diesel,Automatic,180.0,259.0,42.0,115.0,8.2
+Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,2019,46,19.77,5.0,Petrol,Manual,165.0,350.0,43.0,81.0,4.91
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2016,91,15.8,5.0,Petrol,Manual,200.0,350.0,52.0,110.0,4.95
+Honda,Honda City S,2014,94,17.8,5.0,Petrol,Manual,170.0,350.0,40.0,88.51,4.48
+Mahindra,Mahindra XUV 300 W6 Petrol,2020,37,17.0,5.0,Petrol,Manual,180.0,259.0,42.0,88.51,8.29
+Hyundai,Hyundai i10 Sportz Petrol,2014,97,20.36,5.0,Petrol,Manual,165.0,225.0,35.0,68.0,3.13
+Tata,Tata Zest XT Diesel,2016,70,23.0,5.0,Diesel,Manual,165.0,350.0,44.0,89.0,4.36
+Tata,Tata Nexon XZ Plus Diesel,2019,102,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,6.9
+Hyundai,Hyundai Venue SX 1.4 CRDI,2019,27,23.7,5.0,Diesel,Manual,190.0,350.0,45.0,98.6,8.98
+Maruti Suzuki,Maruti Suzuki Swift VDi (O),2017,63,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,5.25
+Honda,Honda Amaze 1.2 VX i-VTEC,2018,23,18.6,5.0,Petrol,Manual,170.0,420.0,35.0,88.76,6.25
+Honda,Honda City VX (O) MT,2016,121,19.365,5.0,Petrol,Manual,165.0,350.0,40.0,88.51,6.39
+Tata,Tata Tigor XE,2021,35,19.365,5.0,Petrol,Manual,170.0,419.0,35.0,88.51,4.8
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI CNG,2021,40,32.5,5.0,Petrol+cng,Manual,165.0,341.0,60.0,88.51,5.57
+Tata,Tata Tiago Revotron XZ Plus,2020,39,20.0,5.0,Petrol,Manual,170.0,242.0,35.0,85.0,5.64
+Hyundai,Hyundai Venue SX 1.0 Turbo,2019,33,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,8.64
+Maruti Suzuki,Maruti Suzuki Ciaz Zeta Petrol AT,2017,38,19.12,5.0,Petrol,Automatic,170.0,510.0,43.0,91.0,6.83
+Maruti Suzuki,Maruti Suzuki Swift VDi ABS,2017,86,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.88
+MG,MG Motors Hector 1.5 Sharp DCT,2020,33,15.81,5.0,Petrol,Automatic,192.0,587.0,60.0,141.0,14.37
+MG,MG Motors Hector 1.5 Sharp petrol turbo DCT,2019,24,13.96,5.0,Petrol,Automatic,192.0,587.0,60.0,141.0,14.33
+Toyota,Toyota Glanza V CVT,2019,36,19.56,5.0,Petrol,Automatic,170.0,339.0,37.0,81.8,7.29
+Renault,Renault Duster 85 PS RxL,2015,62,20.45,5.0,Diesel,Manual,205.0,475.0,50.0,83.0,5.44
+Hyundai,Hyundai Creta SX OPT Turbo DCT Petrol,2020,18,11.0,5.0,Petrol,Automatic,190.0,433.0,50.0,138.0,17.07
+MG,MG Motors Hector Plus Sharp 2.0 Diesel Turbo MT 6-STR,2020,62,16.65,6.0,Diesel,Manual,192.0,155.0,60.0,88.51,18.03
+Hyundai,Hyundai Xcent SX Petrol,2019,24,20.14,5.0,Petrol,Manual,165.0,407.0,43.0,81.86,6.25
+Renault,Renault Duster 110 PS RxZ AWD,2014,93,19.72,5.0,Diesel,Manual,170.0,350.0,50.0,88.51,5.33
+Hyundai,Hyundai Creta 1.6 SX,2017,77,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.44
+Mahindra,Mahindra XUV500 W6 1.99,2016,75,16.0,7.0,Diesel,Manual,200.0,350.0,70.0,138.0,8.91
+Ford,Ford EcoSport Titanium 1.5L TDCi (Opt),2014,74,22.7,5.0,Diesel,Manual,200.0,350.0,52.0,89.0,5.53
+Hyundai,Hyundai Creta 1.6 SX,2017,71,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.53
+Maruti Suzuki,Maruti Suzuki Swift LXI,2010,89,16.1,5.0,Petrol,Manual,170.0,232.0,43.0,85.0,2.68
+Hyundai,Hyundai Creta 1.6 SX VTVT,2019,41,15.29,5.0,Petrol,Manual,190.0,400.0,55.0,122.0,10.64
+Hyundai,Hyundai Grand i10 Sportz AT 1.2 Kappa VTVT,2019,39,19.77,5.0,Petrol,Automatic,165.0,350.0,43.0,81.0,6.29
+Hyundai,Hyundai Grand i10 Sportz 1.1 CRDi,2014,95,18.9,5.0,Diesel,Manual,165.0,350.0,43.0,70.0,3.71
+Renault,Renault Duster 110 PS RXZ 4X2 AMT,2017,82,19.6,5.0,Diesel,Automatic,205.0,475.0,50.0,108.45,7.35
+Maruti Suzuki,Maruti Suzuki Ertiga VDI ABS,2015,71,20.77,7.0,Diesel,Manual,185.0,135.0,45.0,88.76,6.15
+Mahindra,Mahindra XUV500 W9 AT,2020,47,15.1,7.0,Diesel,Automatic,200.0,350.0,70.0,88.51,15.8
+Maruti Suzuki,Maruti Suzuki Ritz Vdi,2014,62,23.2,5.0,Diesel,Manual,170.0,236.0,43.0,73.0,3.73
+Honda,Honda Amaze 1.5 VX i-DTEC,2015,81,25.8,5.0,Diesel,Manual,165.0,400.0,35.0,88.51,4.74
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,63,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.72
+Hyundai,Hyundai Elite i20 Asta 1.2,2017,29,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,6.45
+Honda,Honda WR-V i-DTEC VX,2018,79,23.7,5.0,Diesel,Manual,188.0,363.0,40.0,97.89,7.54
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi Plus,2017,70,24.3,5.0,Diesel,Manual,198.0,350.0,48.0,89.0,8.03
+Maruti Suzuki,Maruti Suzuki Swift VDi ABS,2014,50,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,5.06
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,95,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.58
+Honda,Honda WR-V VX i-VTEC,2018,41,16.5,5.0,Petrol,Manual,188.0,363.0,40.0,88.5,7.11
+Honda,Honda City VX,2021,18,18.4,5.0,Petrol,Manual,165.0,506.0,40.0,119.3,11.63
+Hyundai,Hyundai Verna 1.6 VTVT SX (O) AT,2017,85,17.0,5.0,Petrol,Automatic,165.0,480.0,45.0,121.3,8.45
+Renault,Renault Kiger RXZ Turbo CVT Dual Tone,2021,16,20.53,5.0,Petrol,Automatic,205.0,405.0,40.0,99.0,9.43
+Honda,Honda City V 4th Gen,2020,30,17.4,5.0,Petrol,Manual,165.0,510.0,40.0,117.6,8.91
+Maruti Suzuki,Maruti Suzuki Celerio ZXI,2020,24,23.1,5.0,Petrol,Manual,165.0,235.0,35.0,67.04,4.82
+Honda,Honda WR-V i-DTEC V,2019,56,25.5,5.0,Diesel,Manual,188.0,363.0,40.0,99.0,8.06
+Datsun,Datsun Redi-GO T,2021,14,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,3.07
+Hyundai,Hyundai Venue SX 1.0 Turbo,2021,22,18.27,5.0,Petrol,Manual,195.0,350.0,45.0,118.35,9.85
+Maruti Suzuki,Maruti Suzuki Ertiga VDI ABS,2015,88,20.77,7.0,Diesel,Manual,185.0,135.0,45.0,88.76,7.11
+Datsun,Datsun Redi-GO T (O),2020,6,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.0,3.15
+MG,MG Motors Hector 1.5 Hybrid Sharp,2020,25,15.81,5.0,Petrol,Manual,183.0,587.0,60.0,88.51,15.89
+Maruti Suzuki,Maruti Suzuki Baleno Zeta Petrol,2017,25,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.25
+Hyundai,Hyundai Creta 1.6 SX,2017,74,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,9.06
+Renault,Renault Duster 110 PS RxZ 4x2 MT,2013,82,19.01,5.0,Diesel,Manual,205.0,475.0,50.0,108.45,4.36
+Tata,Tata Nano Twist XT Petrol,2015,49,25.4,4.0,Petrol,Manual,180.0,80.0,15.0,37.5,1.48
+Maruti Suzuki,Maruti Suzuki Alto K10 VXI,2013,26,20.92,5.0,Petrol,Manual,160.0,177.0,35.0,67.1,2.57
+Volkswagen,Volkswagen Tiguan Highline TDI,2017,59,16.65,5.0,Diesel,Automatic,191.0,615.0,71.0,141.0,18.72
+MG,MG Motors Astor Sharp 1.5 MT,2022,4,15.1,5.0,Petrol,Manual,180.0,488.0,48.0,108.0,14.44
+Maruti Suzuki,Maruti Suzuki Dzire VXI AMT,2017,65,24.12,5.0,Petrol,Automatic,163.0,378.0,37.0,88.5,5.92
+Tata,Tata Nexon XM S Petrol,2021,21,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,8.55
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2014,49,22.74,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,2.68
+Maruti Suzuki,Maruti Suzuki Baleno Delta Petrol,2020,22,21.01,5.0,Petrol,Manual,170.0,339.0,37.0,81.8,6.38
+Maruti Suzuki,Maruti Suzuki Swift VXI,2012,45,18.6,5.0,Petrol,Manual,170.0,232.0,42.0,85.8,3.95
+Maruti Suzuki,Maruti Suzuki Ignis Zeta MT Petrol,2019,22,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,81.8,4.88
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,79,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,4.46
+Honda,Honda City VX CVT,2017,86,18.0,5.0,Petrol,Automatic,165.0,510.0,40.0,88.51,8.24
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZXI,2013,70,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,5.18
+Hyundai,Hyundai Elite i20 Asta 1.4 CRDI,2014,84,22.54,5.0,Diesel,Manual,170.0,285.0,45.0,89.0,4.98
+Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,2014,78,21.9,5.0,Diesel,Automatic,170.0,465.0,43.0,126.0,6.01
+Maruti Suzuki,Maruti Suzuki Dzire VXI,2018,18,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,6.86
+Tata,Tata Harrier XZ Dark Edition,2019,24,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,88.51,16.92
+Tata,Tata Altroz XZ 1.2,2021,10,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,7.82
+Hyundai,Hyundai i20 Asta 1.2,2011,55,12.4,5.0,Petrol,Manual,165.0,295.0,45.0,80.0,3.58
+Ford,Ford EcoSport Trend + 1.5L TDCi,2017,102,22.7,5.0,Diesel,Manual,100.0,346.0,52.0,99.0,6.63
+Honda,Honda Mobilio S Petrol,2015,71,17.3,7.0,Petrol,Manual,189.0,350.0,42.0,118.0,4.84
+Ford,Ford Figo Duratorq Diesel ZXI 1.4,2011,82,14.7,5.0,Diesel,Manual,168.0,284.0,45.0,69.0,2.08
+Mahindra,Mahindra XUV500 W8,2014,87,15.1,7.0,Diesel,Manual,200.0,350.0,70.0,140.0,6.28
+Mahindra,Mahindra KUV100 NXT K2+ D 6 STR,2018,59,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,4.09
+Chevrolet,Chevrolet Sail U-VA 1.3 LS ABS,2014,49,22.1,5.0,Diesel,Manual,168.0,350.0,40.0,77.0,2.54
+Nissan,Nissan Magnite XV Turbo Dual Tone,2021,15,20.0,5.0,Petrol,Manual,205.0,336.0,40.0,99.0,7.72
+Maruti Suzuki,Maruti Suzuki Swift VDi,2014,74,22.9,5.0,Diesel,Manual,170.0,232.0,43.0,74.0,3.88
+Hyundai,Hyundai Creta 1.6 SX AT,2018,87,15.29,5.0,Diesel,Automatic,190.0,400.0,55.0,121.3,11.27
+Honda,Honda City SV Diesel,2018,84,25.6,5.0,Diesel,Manual,165.0,510.0,40.0,97.9,6.8
+Tata,Tata Nexon XZ Plus Petrol,2020,28,17.0,5.0,Petrol,Manual,209.0,350.0,44.0,88.51,8.84
+Hyundai,Hyundai i10 Magna 1.2 Petrol,2009,82,20.36,5.0,Petrol,Manual,170.0,350.0,35.0,78.9,1.82
+Ford,Ford EcoSport Titanium 1.5L Ti-VCT,2018,27,15.9,5.0,Petrol,Manual,200.0,352.0,52.0,120.69,6.84
+Maruti Suzuki,Maruti Suzuki S-Presso VXI+,2020,12,21.01,5.0,Petrol,Manual,180.0,270.0,27.0,67.0,4.08
+Renault,Renault Kiger RXT MT,2021,7,19.1,5.0,Petrol,Manual,205.0,405.0,40.0,71.0,6.5
+Hyundai,Hyundai i10 Era Petrol,2011,49,19.81,5.0,Petrol,Manual,165.0,225.0,35.0,68.05,2.03
+Hyundai,Hyundai Creta 1.6 SX,2019,25,19.365,5.0,Diesel,Manual,170.0,400.0,55.0,126.0,11.32
+Hyundai,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,2020,19,20.7,5.0,Petrol,Manual,165.0,260.0,37.0,81.86,5.68
+Mahindra,Mahindra KUV100 K2 D 6 STR,2017,49,25.32,6.0,Diesel,Manual,170.0,350.0,35.0,77.0,3.75
+Tata,Tata Nexon XZ Plus Diesel,2019,61,21.05,5.0,Diesel,Manual,209.0,350.0,44.0,108.5,8.23
+Hyundai,Hyundai i20 Sportz 1.4 CRDI,2014,79,21.93,5.0,Diesel,Manual,165.0,295.0,45.0,89.0,4.15
+Tata,Tata Nexon XZ Plus Diesel S,2021,23,21.5,5.0,Diesel,Manual,209.0,350.0,44.0,108.0,11.57
+Maruti Suzuki,Maruti Suzuki Ignis Alpha MT Petrol,2020,20,20.89,5.0,Petrol,Manual,180.0,260.0,32.0,88.51,5.8
+Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX Opt,2011,95,22.32,5.0,Diesel,Manual,170.0,465.0,43.0,126.0,3.79
+Renault,Renault Kwid RXL,2020,19,20.71,5.0,Petrol,Manual,184.0,279.0,28.0,53.0,3.56
+Hyundai,Hyundai Verna 1.6 CRDI SX + AT,2018,76,22.0,5.0,Diesel,Automatic,165.0,480.0,45.0,88.51,9.0
+Maruti Suzuki,Maruti Suzuki Ciaz ZDi,2014,73,28.09,5.0,Diesel,Manual,170.0,510.0,43.0,89.0,5.03
+Kia,Kia Seltos HTK G,2021,23,16.8,5.0,Petrol,Manual,190.0,433.0,50.0,113.4,10.29
+Renault,Renault Duster 85 PS RxE,2014,84,19.87,5.0,Diesel,Manual,205.0,350.0,50.0,83.8,4.36
+Tata,Tata Altroz XM 1.5,2021,24,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,6.9
+Skoda,Skoda Fabia Ambiente 1.2 MPI,2011,88,11.3,5.0,Petrol,Manual,170.0,350.0,45.0,75.0,3.1
+Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX,2014,37,17.01,5.0,Petrol,Manual,165.0,465.0,43.0,121.0,6.22
+Tata,Tata Punch Creative MT,2021,19,18.9,5.0,Petrol,Manual,187.0,366.0,37.0,84.0,8.12
+Tata,Tata Nexon XZA Plus Dual Tone Roof AMT Petrol,2018,32,17.0,5.0,Petrol,Automatic,209.0,350.0,44.0,118.0,8.5
+Tata,Tata Nexon XZA Plus Dualtone Roof (O) AMT,2020,43,17.0,5.0,Petrol,Automatic,170.0,350.0,44.0,118.3,10.41
+MG,MG Motors Hector 1.5 Sharp petrol turbo DCT,2020,34,13.96,5.0,Petrol,Automatic,192.0,587.0,60.0,141.0,16.08
+Maruti Suzuki,Maruti Suzuki S-Presso VXI Plus AT,2020,17,21.7,5.0,Petrol,Automatic,180.0,270.0,27.0,88.51,5.25
+Nissan,Nissan Sunny XV Diesel,2017,86,22.71,5.0,Diesel,Manual,170.0,350.0,41.0,88.51,6.12
+Honda,Honda Amaze 1.5 VX CVT i-DTEC,2019,42,21.0,5.0,Diesel,Automatic,170.0,420.0,35.0,79.0,9.1
+Volkswagen,Volkswagen Vento Highline 1.0L TSI,2020,40,17.69,5.0,Petrol,Manual,163.0,494.0,55.0,109.0,9.43
+Hyundai,Hyundai Aura SX Plus 1.2 AMT Petrol,2020,27,19.365,5.0,Petrol,Automatic,170.0,402.0,37.0,88.51,7.91
+Tata,Tata Punch Creative AMT,2021,15,18.9,5.0,Petrol,Automatic,187.0,366.0,37.0,84.0,8.42
+Renault,Renault Triber RXT,2021,19,20.0,7.0,Petrol,Manual,182.0,84.0,40.0,71.0,6.89
+Mahindra,Mahindra Marazzo M2,2020,65,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,121.0,9.79
+Datsun,Datsun Redi-GO D,2018,98,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.25
+Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.5,2022,22,18.55,5.0,Petrol,Manual,180.0,375.0,48.0,88.51,10.36
+Renault,Renault Kwid 1.0 RXT AMT,2022,13,21.7,5.0,Petrol,Automatic,184.0,279.0,28.0,67.0,5.47
+Renault,Renault Kwid RXT 1.0 SCE Special (O),2019,47,23.01,5.0,Petrol,Manual,180.0,300.0,28.0,67.0,4.01
+Hyundai,Hyundai Grand i10 Nios Sportz 1.0 Turbo GDI,2022,15,20.7,5.0,Petrol,Manual,170.0,260.0,37.0,88.51,7.89
+Hyundai,Hyundai Grand i10 Nios Sportz 1.0 Turbo GDI,2022,3,20.7,5.0,Petrol,Manual,170.0,260.0,37.0,88.51,7.97
+Renault,Renault Kiger RXZ Turbo CVT,2021,11,20.53,5.0,Petrol,Automatic,205.0,405.0,40.0,99.0,9.46
+Volkswagen,Volkswagen Taigun Highline 1.0 TSI AT,2021,36,19.2,5.0,Petrol,Automatic,188.0,350.0,43.0,114.0,13.47
+Kia,Kia Seltos HTX IVT G,2020,25,16.8,5.0,Petrol,Automatic,190.0,433.0,50.0,113.4,13.86
+Tata,Tata Harrier XZ,2019,49,17.0,5.0,Diesel,Manual,205.0,425.0,50.0,138.0,15.13
+Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDI PLUS Dual Tone,2019,41,24.3,5.0,Diesel,Manual,198.0,328.0,48.0,88.5,9.03
+Nissan,Nissan Micra XV Petrol,2016,118,19.69,5.0,Petrol,Manual,154.0,251.0,41.0,67.04,3.09
+Renault,Renault Kwid 1.0 RXT AMT Opt,2020,16,22.0,5.0,Petrol,Automatic,184.0,279.0,28.0,67.0,4.72
+Renault,Renault Kwid 1.0 RXT AMT Opt,2021,16,22.0,5.0,Petrol,Automatic,184.0,279.0,28.0,67.0,4.94
+Hyundai,Hyundai New i20 Sportz 1.2 MT,2021,5,21.0,5.0,Petrol,Manual,170.0,311.0,37.0,82.0,7.37
+Honda,Honda Brio S MT,2016,17,19.4,5.0,Petrol,Manual,165.0,175.0,35.0,86.8,4.19
+Kia,Kia Sonet HTX 1.5,2021,41,24.1,5.0,Diesel,Manual,205.0,392.0,45.0,88.51,11.45
+Nissan,Nissan Terrano XL (D),2015,39,20.5,5.0,Diesel,Manual,170.0,350.0,50.0,84.0,6.15
+Maruti Suzuki,Maruti Suzuki Dzire LXI,2018,43,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,5.36
+Maruti Suzuki,Maruti Suzuki Alto K10 LXI,2022,3,19.365,5.0,Petrol,Manual,170.0,350.0,43.0,88.51,4.49
+Hyundai,Hyundai i10 Magna Petrol,2015,73,19.81,5.0,Petrol,Manual,165.0,350.0,35.0,68.0,3.59
+Maruti Suzuki,Maruti Suzuki Dzire VXI,2018,54,23.26,5.0,Petrol,Manual,170.0,378.0,37.0,88.5,5.87
+Toyota,Toyota Etios V,2017,52,19.365,5.0,Petrol,Manual,170.0,350.0,45.0,88.51,4.94
+Honda,Honda City VX,2014,105,17.8,5.0,Petrol,Manual,165.0,350.0,40.0,117.3,5.32
+Nissan,Nissan Magnite XL,2021,13,18.75,5.0,Petrol,Manual,205.0,336.0,40.0,88.51,6.11
+Hyundai,Hyundai i10 Magna 1.2 Petrol,2013,42,20.36,5.0,Petrol,Manual,165.0,350.0,35.0,78.9,3.53
+Hyundai,Hyundai Elite i20 Sportz 1.2,2015,63,18.6,5.0,Petrol,Manual,170.0,285.0,45.0,82.0,4.98
+Skoda,Skoda Fabia Elegance 1.2 MPI,2012,78,16.4,5.0,Petrol,Manual,158.0,315.0,45.0,75.0,3.9
+Hyundai,Hyundai Eon Era + SE,2017,37,21.1,5.0,Petrol,Manual,170.0,215.0,32.0,55.2,3.19
+Maruti Suzuki,Maruti Suzuki Baleno Alpha Diesel,2017,45,27.39,5.0,Diesel,Manual,170.0,339.0,37.0,74.0,7.3
+Skoda,Skoda Fabia Elegance 1.2 MPI,2011,90,16.4,5.0,Petrol,Manual,158.0,315.0,45.0,75.0,3.69
+Volkswagen,Volkswagen Ameo Comfortline 1.5L (D),2019,90,22.0,5.0,Diesel,Manual,165.0,330.0,45.0,108.62,5.6
+Honda,Honda Amaze 1.2 V i-VTEC,2020,34,18.6,5.0,Petrol,Manual,170.0,420.0,35.0,88.76,6.89
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2015,47,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,5.03
+Toyota,Toyota Innova 2.5 G4 8 STR,2010,72,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,5.14
+MG,MG Motors Astor Sharp 1.5 MT,2022,32,15.1,5.0,Petrol,Manual,180.0,488.0,48.0,108.0,14.29
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2012,92,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,3.78
+Datsun,Datsun Redi-GO A,2020,9,20.71,5.0,Petrol,Manual,187.0,222.0,28.0,53.64,2.82
+Hyundai,Hyundai Creta 1.6 SX,2016,85,19.67,5.0,Diesel,Manual,190.0,350.0,60.0,126.0,8.64
+Toyota,Toyota Yaris J,2020,25,17.18,5.0,Petrol,Manual,170.0,476.0,42.0,105.94,7.97
+Renault,Renault Kwid 1.0 RXT Opt,2019,24,22.0,5.0,Petrol,Manual,180.0,279.0,28.0,67.0,3.61
+Renault,Renault Kwid 1.0 RXT Opt,2021,6,22.0,5.0,Petrol,Manual,180.0,279.0,28.0,67.0,4.48
+Tata,Tata Nano Twist XM Petrol,2015,54,23.9,4.0,Petrol,Manual,180.0,350.0,24.0,33.0,1.37
+Volkswagen,Volkswagen Polo Highline 1.5 (D),2015,85,20.18,5.0,Diesel,Manual,165.0,350.0,45.0,88.0,5.49
+Honda,Honda Jazz SV,2017,44,18.7,5.0,Petrol,Manual,165.0,354.0,40.0,88.7,5.28
+Hyundai,Hyundai i10 Sportz 1.2 Petrol,2010,39,19.365,5.0,Petrol,Manual,170.0,350.0,35.0,88.51,2.49
+Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2017,76,15.29,5.0,Petrol,Manual,190.0,400.0,60.0,122.0,9.09
+Tata,Tata Nexon XZ Plus Diesel S,2021,21,21.5,5.0,Diesel,Manual,209.0,350.0,44.0,108.0,11.69
+Maruti Suzuki,Maruti Suzuki Alto 800 VXI,2020,6,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.3,3.62
+Maruti Suzuki,Maruti Suzuki Alto 800 LXI,2020,13,22.05,5.0,Petrol,Manual,160.0,177.0,35.0,47.33,3.4
+Maruti Suzuki,Maruti Suzuki Swift Dzire VXI,2013,33,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,4.72
+Maruti Suzuki,Maruti Suzuki Swift Dzire ZXI,2015,51,19.1,5.0,Petrol,Manual,170.0,320.0,42.0,85.8,5.57
+Mahindra,Mahindra Marazzo M2,2020,26,17.3,7.0,Diesel,Manual,200.0,190.0,45.0,121.0,11.28
+Renault,Renault Kwid RXT,2015,30,25.12,5.0,Petrol,Manual,180.0,300.0,28.0,53.3,3.03
+Hyundai,Hyundai Elite i20 Asta 1.4 CRDI,2014,92,22.54,5.0,Diesel,Manual,170.0,285.0,45.0,89.0,5.1
+Tata,Tata Altroz XM Plus 1.2,2021,10,19.05,5.0,Petrol,Manual,165.0,345.0,37.0,84.82,6.12
+Renault,Renault Duster 85 PS RxL,2015,98,19.87,5.0,Diesel,Manual,205.0,475.0,50.0,83.8,5.86
+Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,70,24.75,5.0,Diesel,Manual,165.0,465.0,43.0,126.0,9.69
+Maruti Suzuki,Maruti Suzuki Alto K10 LXI,2012,60,20.92,5.0,Petrol,Manual,160.0,350.0,35.0,67.1,2.04
+Renault,Renault Duster RXS Sandstorm edition 110PS,2017,70,19.365,5.0,Diesel,Manual,170.0,350.0,43.0,88.51,8.49
+Maruti Suzuki,Maruti Suzuki Ciaz Delta Petrol,2020,18,20.65,5.0,Petrol,Manual,170.0,510.0,43.0,103.25,8.34
+Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI,2013,40,18.9,5.0,Petrol,Manual,165.0,180.0,35.0,67.1,3.4
+Hyundai,Hyundai Elite i20 Asta 1.4 CRDI Dual Tone,2018,54,22.54,5.0,Diesel,Manual,170.0,285.0,45.0,89.0,7.53
