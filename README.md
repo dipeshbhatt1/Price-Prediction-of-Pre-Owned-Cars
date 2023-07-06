@@ -101,29 +101,6 @@
    7. The model shows more than 83% accuracy rate which is good enough to proceed with.
    8. Based on a general understanding of a person about the resale value of a pre-owned car, the model is giving a meaningful prediction of price (as per the price prediction of a Tata SUV-Manual-Petrol car)
 
-   
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
-
-<!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
-I'm an aspiring data analyst...
-
-
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-<a href="https://www.linkedin.com/in/tejas-natani-6b202a196/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> <a href="https://samarsaeedkhan.me/"><img src="https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png" width="48" height="48"><a href="https://www.hackerrank.com/samarsaeedkhan4" > <img src="https://user-images.githubusercontent.com/106439762/182037415-9440716d-d2bc-4c33-955a-66b9c18f77eb.png" width="48" height="48"> <a href="https://www.kaggle.com/samarsaeedkhan" ><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="48" height="48"></a>   
-
-
-
-
-  ## 🛠 Skills
-
-    •	Python
-    • Web scraping (using Selenium)
-    • Machine Learning
-    •	Analytical Visualisation -->
 
 ## Contributing
-Contributions are always welcome!
- 
-## Lessons Learned
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+Contributions are always welcome! Especially if you can help me with creating a UI for this model to make it useful for masses.
