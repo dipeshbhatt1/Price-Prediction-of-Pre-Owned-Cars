@@ -79,7 +79,7 @@
 
  ## Screenshots
 
- <img src="Screenshots/Average Price of cars of different brands.jpg" width="400" height="200"> <img src="Screenshots/Average Price of cars graph.jpg" width="400" height="200">
+ <img src="Screenshots/Average Price of cars of different brands.jpg" width="450" height="400"> <img src="Screenshots/Average Price of cars graph.jpg" width="450" height="400">
 <p align="center"><img src="Screenshots/Pivot table showing average price of cars of different brands based on transmission.jpg" width="400" height="250">
 <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="400" height="200"> <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="400" height="200">
 <img src="Screenshots/Correlation between mileage and price.jpg" width="400" height=250"> <img src="Screenshots/Correlation among continuous features.jpg" width="400" height=250">
