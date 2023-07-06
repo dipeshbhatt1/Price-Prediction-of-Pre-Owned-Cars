@@ -79,17 +79,12 @@
 
  ## Screenshots
 
- 
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/106439762/181937614-9d035731-d691-4307-bac7-434873673931.png" width="600" height="470"></p> -->
-
-   
-
-
-<img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
-
-<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png"</a></p> 
-<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189941021-7fdd796a-c11c-4776-b484-5a736b8cee5b.png"</a></p>
-<p align="center"><a><img src="https://user-images.githubusercontent.com/108053296/189941179-8839d403-1523-440e-b305-836964f7a273.png"</a></p>
+ <img src="Screenshots/Average Price of cars of different brands.jpg" width="400" height="200"> <img src="Screenshots/Average Price of cars graph.jpg" width="400" height="200">
+<p align="center"><img src="Screenshots/Pivot table showing average price of cars of different brands based on transmission.jpg" width="400" height="250">
+<img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="400" height="200"> <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="400" height="200">
+<img src="Screenshots/Correlation between mileage and price.jpg" width="400" height=250"> <img src="Screenshots/Correlation among continuous features.jpg" width="400" height=250">
+<img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="400" height=250"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="400" height=250">
+<p align="center"><img src="Screenshots/Predicting the price.jpg" width="400" height="250">
 
 
    
