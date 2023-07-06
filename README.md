@@ -82,11 +82,11 @@
 <br>
 <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="250"> <img src="Screenshots/Correlation among continuous features.jpg" width="350" height="250">
 <br>
-<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="300">
+<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="250">
 <br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
 <br>
-<img src="Screenshots/Accuracy score.jpg" width="400" height="300"> <img src="Screenshots/Predicting the price.jpg" width="300" height="300">
+<img src="Screenshots/Accuracy score.jpg" width="300" height="300"> <img src="Screenshots/Predicting the price.jpg" width="400" height="300">
 
 <br>
 
