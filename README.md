@@ -80,11 +80,14 @@
  ## Screenshots
 
  <img src="Screenshots/Average Price of cars of different brands.jpg" width="350" height="400"> <img src="Screenshots/Average Price of cars graph.jpg" width="400" height="350">
-<img src="Screenshots/Pivot table showing average price of cars of different brands based on transmission.jpg" width="400" height="350">
-<img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="400" height="350"> <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="400" height="350">
+ <br>
+<img src="Screenshots/Pivot table showing average price of cars of different brands based on transmission.jpg" width="400" height="350"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="400" height="350">
+<br>
 <img src="Screenshots/Correlation between mileage and price.jpg" width="400" height=350"> <img src="Screenshots/Correlation among continuous features.jpg" width="400" height=350">
+<br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="400" height=350"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="400" height=350">
-<p align="center"><img src="Screenshots/Predicting the price.jpg" width="500" height="500">
+<br>
+<p align="center"><img src="Screenshots/Predicting the price.jpg" width="500" height="400">
 
 
    
