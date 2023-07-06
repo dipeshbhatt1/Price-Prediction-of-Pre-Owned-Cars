@@ -85,7 +85,7 @@
 <br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
 <br>
-<p align="center"><img src="Screenshots/Predicting the price.jpg" width="3500" height="320">
+<p align="center"><img src="Screenshots/Predicting the price.jpg" width="500" height="400">
 
 
    
