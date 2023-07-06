@@ -82,9 +82,11 @@
 <br>
 <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="250"> <img src="Screenshots/Correlation among continuous features.jpg" width="350" height="250">
 <br>
+<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="300">
+<br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
 <br>
-<img src="Screenshots/Accuracy score.jpg" width="350" height="300"> <img src="Screenshots/Predicting the price.jpg" width="350" height="300">
+<img src="Screenshots/Accuracy score.jpg" width="400" height="300"> <img src="Screenshots/Predicting the price.jpg" width="300" height="300">
 
 <br>
 
@@ -99,12 +101,8 @@
    7. The model shows more than 83% accuracy rate which is good enough to proceed with.
    8. Based on a general understanding of a person about the resale value of a pre-owned car, the model is giving a meaningful prediction of price (as per the price prediction of a Tata SUV-Manual-Petrol car)
 
-    
-
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
-
    
- 
+![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
 
 <!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
 I'm an aspiring data analyst...
