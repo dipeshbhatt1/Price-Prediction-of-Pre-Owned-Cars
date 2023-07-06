@@ -56,17 +56,16 @@
 
 1. **Objective:** To build a Machine Learning model (Linear Regression) that can predict prices (label) of used cars based on various features
 2. **Data Collection:** For this, a reasonable and large enough dataset was required. Now, instead of looking for some old data or sample data available on internet, I decided to scrape website of a service provider already working in this field. So, I came across spinny.com which has a simple yet cool UI. Finally, the data was scrapped from this website.
-3. **Data Cleaning & Feature Engineering:** Initially the dataset had all the data in just 7 columns, the data had null values, duplicates and noise too. After applying techniques like Data Cleaning (imputation, outlier detection, and removing duplicate records), EDA, and Feature Generation, total 14 meaningful features were generated, which can be used for drawing insites through aggregations and visualistion. Then, I applied some final techniques, to prepare final data for training the model, like Feature Selection, Feature Encoding, Feature Scaling. The final dataset has the following features:
+3. **Data Cleaning & Feature Engineering:** Initially the dataset had all the data in just 7 columns, the data had null values, duplicates and noise too. After applying techniques like Data Cleaning (imputation, outlier detection, and removing duplicate records), EDA, and Feature Generation, total 14 meaningful features were generated, which can be used for drawing insites through aggregations and visualistion. Then, I applied some final techniques, to prepare final data for training the model, like Feature Selection, Feature Encoding, Feature Scaling. The final dataset has the following independent features:
 ```bash
+    brand
+    body type
+    fuel type
+    transmission
     model (year)
     km driven (in thousands)
     mileage (in kmpl)
     seating capacity (units)
-    fuel_type_ Petrol
-    fuel_type_ Diesel
-    fuel_type_ Petrol+cng
-    transmission_ Automatic
-    transmission_ Manual
     ground clearance (in mm)
     boot space (in litres)
     fuel tank capacity (in litres)
@@ -85,29 +84,21 @@
 <br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
 <br>
-<p align="center"><img src="Screenshots/Predicting the price.jpg" width="500" height="450">
-
-
-   
-   
-
+<img src="Screenshots/Accuracy score.jpg" width="350" height="300"> <img src="Screenshots/Predicting the price.jpg" width="350" height="300">
 
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    
-   1. North America And Europe have the highest average electrification in both rural and urban areas as they are among highly developed regions in the world. 
-Regions belonging to lower and lower middle income have comparatively lower electrification along with considerable difference of distribution between rural and urban areas.
-   
-   2. There is gradual increase in number of developing countries accomplishing minimum 75% electrification over the last two decades.
-   
-   3. Developed regions have increased their electricity production through nuclear sources whereas some developing regions have gradually started increasing their foothold in nuclear power generation while some regions have been unable to do so.
-   
-   4. Transmission loss has been highest among the countries having poor economy, political instability , infrastructure issues and outdated technologies.
-   
-   5. Countries having emphasis on tourism , geographical & demographic constraint have seen highest growth rate of electrification in the last two decades.
-   
-   6. Higher income region have been in forefront of increasing renewable energy production along with nuclear sources whereas middle and lower middle countries are in gradual process.
+   1. Average price of MG cars is the highest among all brands.
+   2. Average price of SUV cars is the highest among all available body types.
+   3. Most commonly available car Brand is Maruti Suzuki.
+   4. Most commonly available body type is Hatchback followed by SUV.
+   5. There are some outliers present in the Mileage column roughly below 15 kmpl and above 25 kmpl.
+   6. Some obvious patterns are also visible such as model year and km driven, mileage and price, km driven and price, all are negatively correlated with each other.
+   7. The model shows more than 83% accuracy rate which is good enough to proceed with.
+   8. Based on a general understanding of a person about the resale value of a pre-owned car, the model is giving a meaningful prediction of price (as per the price prediction of a Tata SUV-Manual-Petrol car)
+
     
 
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
