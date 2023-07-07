@@ -1,4 +1,3 @@
-
 # <img src="Media Files/icon.png" width="50" height="30"> Price-Prediction of pre-owned Cars <img src="Media Files/icon2.png" width="50" height="32">
 
 <img src="Media Files/1.jpg" width="400" height="200"> <img src="Media Files/2.jpg" width="400" height="200">
