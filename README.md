@@ -20,8 +20,7 @@
   https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/tree/main/Datasets
 
 ## 🏽‍ Download Model File
-- Download the model file from following Link
-- https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
+- Download the model file: https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
 
 ## :desktop_computer:	Installation
 
@@ -82,9 +81,9 @@
 
 <img src="Screenshots/Average Price of cars graph.jpg" width="350" height="300"> <img src="Screenshots/Correlation between mileage and price.jpg" width="350" height="300">
 <br>
-<img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="250"> <img src="Screenshots/Correlation among continuous features.jpg" width="350" height="250">
+<img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="260"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="260">
 <br>
-<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="250">
+<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Correlation among continuous features.jpg" width="400" height="300">
 <br>
 <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
 <br>
