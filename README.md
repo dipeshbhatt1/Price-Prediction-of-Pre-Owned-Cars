@@ -3,7 +3,7 @@
 <img src="Media Files/1.jpg" width="400" height="200"> <img src="Media Files/2.jpg" width="400" height="200">
 <p align="center"><img src="Media Files/3.jpg" width="400" height="250">
  <br>
-<img src="Media Files/4.jpg" width="400" height="200"> <img src="Media Files/5.jpg" width="400" height="200">
+<p align="center"><img src="Media Files/4.jpg" width="335" height="180"> <img src="Media Files/5.jpg" width="420" height="200">
 <p align="center"><img src="Media Files/TATA NEXON GIF.gif" width="400" height=250">
  
 <br>
