@@ -5,6 +5,9 @@
  <br>
 <img src="Media Files/4.jpg" width="400" height="200"> <img src="Media Files/5.jpg" width="400" height="200">
 <p align="center"><img src="Media Files/TATA NEXON GIF.gif" width="400" height=250">
+ 
+<br>
+<p align="center"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
 
 ## 📝 Description
 * This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
@@ -12,7 +15,7 @@
 
 ## ⏳ Dataset 
 * Data of over 6000 pre-owned cars was extracted from spinny.com
-* After applying feature engineering and data preparation we are left with data of over 1000 pre-owned cars
+* After applying data cleaning, organization, and feature engineering we are left with data from over 1300 pre-owned cars
 * Download the dataset for custom training:
   https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/tree/main/Datasets
 
