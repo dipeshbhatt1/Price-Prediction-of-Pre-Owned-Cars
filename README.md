@@ -11,7 +11,7 @@
 
 ## 📝 Description
 * This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
-* With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on their features.
+* With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on some relevant characteristics.
 
 ## ⏳ Dataset 
 * Data of over 6000 pre-owned cars was extracted from spinny.com
