@@ -83,7 +83,7 @@
 <br>
 **• The average price of MG cars is the highest among all brands.**
 <br>
-**• On average, Prices are falling with increasing Mileage.**
+**• Prices are falling with increasing Mileage.**
 <br>
 ****
 <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="260"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="260">
