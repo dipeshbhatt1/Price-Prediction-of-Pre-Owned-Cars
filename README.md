@@ -77,30 +77,54 @@
 6. **Testing:** The predicted values for the label (price) were then generated. The accuracy came out to be 85% using the R2 score metric and 84% using the Adjusted R2 score method.
 7. **Predicting (Applying the Model):** As a test case, predicting the price of a used car using hypothetical features seems to be quite reasonable and meaningful. The model now can be used by a user who may be a buyer/seller to predict the prices of pre-owned cars.
 
- ## Screenshots
+ ## Data Visualisation and Insights
 
 <img src="Screenshots/Average Price of cars graph.jpg" width="350" height="300"> <img src="Screenshots/Correlation between mileage and price.jpg" width="350" height="300">
 <br>
+**• The average price of MG cars is the highest among all brands.**
+<br>
+****
 <img src="Screenshots/Pie chart showing percentage of cars of different fuel types.jpg" width="350" height="260"> <img src="Screenshots/Pie chart showing percentage of cars of different body-types.jpg" width="350" height="260">
 <br>
-<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Correlation among continuous features.jpg" width="400" height="300">
+**• The most commonly available fuel-type is Petrol followed by Diesel.**
 <br>
-<img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
+**• The most commonly available body type is Hatchback followed by SUV.**
 <br>
+****
+<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="400" height="300">
+<br>
+**• The most commonly available car Brand is the Maruti Suzuki.**
+<br>
+**• The average price of SUV cars is the highest among all available body types.**
+<br>
+****
+<img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300"> <img src="Screenshots/Correlation among continuous features.jpg" width="450" height="300">
+<br>
+**• Some outliers are present in the Mileage column roughly below 15 kmpl and above 25 kmpl.**
+<br>
+**• The Pearson correlation among the numerical features shows that there's no multicollinearity among the features at this stage.**
+<br>
+**• Some obvious patterns are also visible such as model year and km driven, mileage and price, km driven and price, all are negatively correlated with each other.**
+<br>
+****
+<be>
+
+## Model Performance:
 <img src="Screenshots/Accuracy score.jpg" width="300" height="285"> <img src="Screenshots/Predicting the price.jpg" width="400" height="285">
-
 <br>
+<br>
+**• Model accuracy is over 83%**
+<br>
+**• For this 2016 Tata SUV Manual (Petrol), the model predicts the price as 7.14 lakhs**
+<be>
 
-## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Key insights from the dataset
+## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusions:
    
-   1. Average price of MG cars is the highest among all brands.
-   2. Average price of SUV cars is the highest among all available body types.
-   3. Most commonly available car Brand is Maruti Suzuki.
-   4. Most commonly available body type is Hatchback followed by SUV.
-   5. There are some outliers present in the Mileage column roughly below 15 kmpl and above 25 kmpl.
-   6. Some obvious patterns are also visible such as model year and km driven, mileage and price, km driven and price, all are negatively correlated with each other.
-   7. The model shows more than 83% accuracy rate which is good enough to proceed with.
-   8. Based on a general understanding of a person about the resale value of a pre-owned car, the model is giving a meaningful prediction of price (as per the price prediction of a Tata SUV-Manual-Petrol car)
+   1. Maruti Suzuki remains the brand of the masses
+   2. Hatchback and SUV are the most preferred car body types
+   3. Possibly due to low maintenance and longer life cap (15 years), Petrol cars are the most common ones
+   4. The model shows a good accuracy rate on the test dataset
+   5. The model provides a meaningful price prediction for a pre-owned car, aligning with common expectations regarding its resale value.
 
 ## Future Scope of the Model for the Masses:
 1. **Empowering Buyers**: The model can assist potential buyers in estimating the fair market value of a used car they are interested in. By inputting the car's relevant characteristics, such as make, model, year, mileage, condition, and additional features, the model can provide a predicted price range. This helps buyers make informed decisions and negotiate better deals.
